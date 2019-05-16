@@ -1,0 +1,56 @@
+--------------------------------------- PIVOT ---------------------------------------
+create table testPivot as (
+select * from (
+  select CD_DEPTO, NR_CARGO
+  FROM FUNC
+)
+PIVOT
+(
+  COUNT(NR_CARGO)
+  FOR NR_CARGO IN (54,52,43,53)
+))
+
+/*
+create table testPivot as
+select * from (
+  select CD_DEPTO, NR_CARGO
+  FROM FUNC
+)
+PIVOT
+(
+  COUNT(NR_CARGO)
+  FOR NR_CARGO IN (54,52,43,53)
+  ORDER BY NR_CARGO;
+)
+*/
+--------------------------------------- ---------------------------------------
+--------------------------------------- UNPIVOT ---------------------------------------
+
+SELECT * FROM TESTPIVOT
+UNPIVOT
+(
+  QTDE
+  FOR NR_CARGO IN ("54","52","43","53")
+)
+ORDER BY CD_DEPTO,NR_CARGO;
+
+SELECT * FROM TESTPIVOT;
+--------------------------------------- ---------------------------------------
+
+--------------------------------------- INDEX ---------------------------------------
+SELECT IC.index_name, 
+       IC.column_name, 
+       --IC.column_positioncol_pos, 
+       IX.uniqueness 
+FROM   user_indexes IX, 
+       user_ind_columns IC 
+WHERE  IC.index_name = IX.index_name 
+       AND IC.table_name = 'FUNC'; 
+
+CREATE INDEX indice1 on FUNC(NM_FUNC);
+
+DROP INDEX INDICE1;
+--------------------------------------- ---------------------------------------
+--------------------------------------- TABELA TEMPORARIA ---------------------------------------
+
+--------------------------------------- ---------------------------------------
