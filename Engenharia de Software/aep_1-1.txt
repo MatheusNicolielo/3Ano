@@ -1,0 +1,7 @@
+CISC:
+     Um processador CISC é capaz de executar várias centenas de instruções complexas diferentes sendo extremamente versátil.
+No começo, a tendência era contruir chips com conjuntos de instruções cada vez mais complexos. Alguns fabricantes porém, resolveram seguir o caminho oposto criando o padrão RISC.
+Ao contrário dos complexos CISC, os processadores RISC são capazes de executar apenas algumas poucas instruções simples. O que acontece é que um processador RISC é capaz de executar as instruções muito mais rapidamente do que o CISC.
+Atualmente nenhuma das duas maneiras são seguidas estritamente, é feito uma 'mistura' visando utilizar o melhor de cada uma.
+De um ponto de vist mais prático, a vantagem de uma arquitetura CISC é que já temos muitas das instruções guardadas no próprio processador, o que acaba facilitando o trabalho principalmente dos programadores.
+No caso de um chip RISC, o programador já teria um pouco mais de trabalho, uma boa comparação seria uma calculadora simples x calculadora cientifica, ambas podem chegar no mesmo lugar, porém de maneiras diferentes.
