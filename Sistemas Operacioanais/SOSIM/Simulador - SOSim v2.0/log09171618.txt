@@ -1,0 +1,87 @@
+0 : Inicializando SOsim ...
+4 : SOsim pronto
+13 : Processo 1817394 alocacao de blocos no pagefile
+13 : Processo 1817394 criado
+14 : Processo 1817394 Pronto -> Exec
+15 : Processo 1817394 Exec -> Page Fault0
+15 : Processo 1819563 alocacao de blocos no pagefile
+15 : Processo 1819563 criado
+16 : Processo 1819563 Pronto -> Exec
+17 : Processo 1819563 Exec -> Page Fault0
+25 : Processo 1817394 HwPF - Executável0
+26 : Processo 1817394 Pronto -> Exec
+27 : Processo 1817394 Exec -> Pronto por tempo
+28 : Processo 1817394 Pronto -> Exec
+29 : Processo 1817394 Exec -> Pronto por tempo
+30 : Processo 1817394 Pronto -> Exec
+31 : Processo 1817394 Exec -> Pronto por tempo
+32 : Processo 1817394 Pronto -> Exec
+33 : Processo 1817394 Exec -> Pronto por tempo
+34 : Processo 1817394 Pronto -> Exec
+35 : Processo 1817394 Exec -> Pronto por tempo
+36 : Processo 1817394 Pronto -> Exec
+36 : Processo 1819563 HwPF - Executável0
+37 : Processo 1817394 Exec -> Pronto por tempo
+38 : Processo 1819563 Pronto -> Exec
+39 : Processo 1819563 Exec -> Pronto por tempo
+40 : Processo 1817394 Pronto -> Exec
+41 : Processo 1817394 Exec -> Pronto por tempo
+42 : Processo 1819563 Pronto -> Exec
+43 : Processo 1819563 Exec -> Pronto por tempo
+44 : Processo 1817394 Pronto -> Exec
+45 : Processo 1817394 Exec -> Pronto por tempo
+46 : Processo 1819563 Pronto -> Exec
+47 : Processo 1819563 Exec -> Pronto por tempo
+48 : Processo 1817394 Pronto -> Exec
+49 : Processo 1817394 Exec -> Page Fault1
+50 : Processo 1819563 Pronto -> Exec
+51 : Processo 1819563 Exec -> Pronto por tempo
+52 : Processo 1819563 Pronto -> Exec
+53 : Processo 1819563 Exec -> Pronto por tempo
+54 : Processo 1819563 Pronto -> Exec
+55 : Processo 1819563 Exec -> Pronto por tempo
+56 : Processo 1819563 Pronto -> Exec
+57 : Processo 1819563 Exec -> Pronto por tempo
+58 : Processo 1819563 Pronto -> Exec
+59 : Processo 1819563 Exec -> Pronto por tempo
+59 : Processo 1817394 HwPF - Executável1
+60 : Processo 1819563 Pronto -> Exec
+61 : Processo 1819563 Exec -> Page Fault1
+62 : Processo 1817394 Pronto -> Exec
+63 : Processo 1817394 Exec -> Pronto por tempo
+64 : Processo 1817394 Pronto -> Exec
+65 : Processo 1817394 Exec -> Pronto por tempo
+66 : Processo 1817394 Pronto -> Exec
+67 : Processo 1817394 Exec -> Pronto por tempo
+68 : Processo 1817394 Pronto -> Exec
+69 : Processo 1817394 Exec -> Pronto por tempo
+70 : Processo 1817394 Pronto -> Exec
+71 : Processo 1817394 Exec -> Pronto por tempo
+71 : Processo 1819563 HwPF - Executável1
+72 : Processo 1817394 Pronto -> Exec
+73 : Processo 1817394 Exec -> Pronto por tempo
+74 : Processo 1819563 Pronto -> Exec
+75 : Processo 1819563 Exec -> Pronto por tempo
+76 : Processo 1817394 Pronto -> Exec
+77 : Processo 1817394 Exec -> Pronto por tempo
+78 : Processo 1819563 Pronto -> Exec
+79 : Processo 1819563 Exec -> Pronto por tempo
+80 : Processo 1817394 Pronto -> Exec
+81 : Processo 1817394 Exec -> Pronto por tempo
+82 : Processo 1819563 Pronto -> Exec
+83 : Processo 1819563 Exec -> Pronto por tempo
+84 : Processo 1817394 Pronto -> Exec
+85 : Processo 1817394 Exec -> Page Fault2
+86 : Processo 1819563 Pronto -> Exec
+87 : Processo 1819563 Exec -> Pronto por tempo
+88 : Processo 1819563 Pronto -> Exec
+89 : Processo 1819563 Exec -> Pronto por tempo
+90 : Processo 1819563 Pronto -> Exec
+91 : Processo 1819563 Exec -> Pronto por tempo
+92 : Processo 1819563 Pronto -> Exec
+93 : Processo 1819563 Exec -> Pronto por tempo
+94 : Processo 1819563 Pronto -> Exec
+95 : Processo 1819563 Exec -> Pronto por tempo
+95 : Processo 1817394 HwPF - Executável2
+96 : Processo 1819563 Pronto -> Exec
+97 : Processo 1819563 Exec -> Page Fault2

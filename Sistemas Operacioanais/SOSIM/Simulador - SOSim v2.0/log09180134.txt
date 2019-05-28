@@ -1,0 +1,640 @@
+0 : Inicializando SOsim ...
+1 : SOsim pronto
+20 : Processo 3503317 alocacao de blocos no pagefile
+20 : Processo 3503317 HwPF - Executável0
+20 : Processo 3503317 HwPF - Executável1
+20 : Processo 3503317 HwPF - Executável2
+20 : Processo 3503317 HwPF - Executável3
+20 : Processo 3503317 HwPF - Executável4
+20 : Processo 3503317 criado
+21 : Processo 3503317 Pronto -> Exec
+22 : Processo 3503317 Exec -> Pronto por tempo
+22 : Processo 3505725 alocacao de blocos no pagefile
+22 : Processo 3505725 HwPF - Executável0
+22 : Processo 3505725 HwPF - Executável1
+22 : Processo 3505725 HwPF - Executável2
+22 : Processo 3505725 HwPF - Executável3
+22 : Processo 3505725 HwPF - Executável4
+22 : Processo 3505725 criado
+23 : Processo 3503317 Pronto -> Exec
+24 : Processo 3503317 Exec -> Pronto por tempo
+25 : Processo 3505725 Pronto -> Exec
+26 : Processo 3505725 Exec -> Pronto por tempo
+27 : Processo 3503317 Pronto -> Exec
+28 : Processo 3503317 Exec -> Pronto por tempo
+29 : Processo 3505725 Pronto -> Exec
+30 : Processo 3505725 Exec -> Pronto por tempo
+31 : Processo 3503317 Pronto -> Exec
+32 : Processo 3503317 Exec -> Pronto por tempo
+33 : Processo 3505725 Pronto -> Exec
+34 : Processo 3505725 Exec -> Pronto por tempo
+35 : Processo 3503317 Pronto -> Exec
+36 : Processo 3503317 Exec -> Pronto por tempo
+37 : Processo 3505725 Pronto -> Exec
+38 : Processo 3505725 Exec -> Pronto por tempo
+39 : Processo 3503317 Pronto -> Exec
+40 : Processo 3503317 Exec -> Pronto por tempo
+41 : Processo 3505725 Pronto -> Exec
+42 : Processo 3505725 Exec -> Pronto por tempo
+43 : Processo 3503317 Pronto -> Exec
+44 : Processo 3503317 Exec -> Pronto por tempo
+45 : Processo 3505725 Pronto -> Exec
+46 : Processo 3505725 Exec -> Pronto por tempo
+47 : Processo 3503317 Pronto -> Exec
+48 : Processo 3503317 Exec -> Pronto por tempo
+49 : Processo 3505725 Pronto -> Exec
+50 : Processo 3505725 Exec -> Pronto por tempo
+51 : Processo 3503317 Pronto -> Exec
+52 : Processo 3503317 Exec -> Pronto por tempo
+53 : Processo 3505725 Pronto -> Exec
+54 : Processo 3505725 Exec -> Pronto por tempo
+55 : Processo 3503317 Pronto -> Exec
+56 : Processo 3503317 Exec -> Pronto por tempo
+57 : Processo 3505725 Pronto -> Exec
+58 : Processo 3505725 Exec -> Pronto por tempo
+59 : Processo 3503317 Pronto -> Exec
+60 : Processo 3503317 Exec -> Pronto por tempo
+61 : Processo 3505725 Pronto -> Exec
+66 : Processo 3505725 Exec -> Pronto por tempo
+67 : Processo 3503317 Pronto -> Exec
+68 : Processo 3503317 Exec -> Pronto por tempo
+69 : Processo 3505725 Pronto -> Exec
+70 : Processo 3505725 Exec -> Pronto por tempo
+71 : Processo 3503317 Pronto -> Exec
+72 : Processo 3503317 Exec -> Pronto por tempo
+73 : Processo 3505725 Pronto -> Exec
+74 : Processo 3505725 Exec -> Pronto por tempo
+75 : Processo 3503317 Pronto -> Exec
+76 : Processo 3503317 Exec -> Pronto por tempo
+77 : Processo 3505725 Pronto -> Exec
+78 : Processo 3505725 Exec -> Pronto por tempo
+78 : Processo 3600251 alocacao de blocos no pagefile
+78 : Processo 3600251 HwPF - Executável0
+78 : Processo 3600251 HwPF - Executável1
+78 : Processo 3600251 HwPF - Executável2
+78 : Processo 3600251 HwPF - Executável3
+78 : Processo 3600251 HwPF - Executável4
+78 : Processo 3600251 criado
+79 : Processo 3503317 Pronto -> Exec
+80 : Processo 3503317 Exec -> Pronto por tempo
+81 : Processo 3505725 Pronto -> Exec
+81 : Processo 3602876 alocacao de blocos no pagefile
+81 : Processo 3602876 HwPF - Executável0
+81 : Processo 3602876 HwPF - Executável1
+81 : Processo 3602876 HwPF - Executável2
+81 : Processo 3602876 HwPF - Executável3
+81 : Processo 3602876 HwPF - Executável4
+81 : Processo 3602876 criado
+82 : Processo 3505725 Exec -> Pronto por tempo
+83 : Processo 3600251 Pronto -> Exec
+84 : Processo 3600251 Exec -> Pronto por tempo
+85 : Processo 3503317 Pronto -> Exec
+86 : Processo 3503317 Exec -> Pronto por tempo
+87 : Processo 3602876 Pronto -> Exec
+88 : Processo 3602876 Exec -> Pronto por tempo
+89 : Processo 3505725 Pronto -> Exec
+90 : Processo 3505725 Exec -> Pronto por tempo
+91 : Processo 3600251 Pronto -> Exec
+92 : Processo 3600251 Exec -> Pronto por tempo
+93 : Processo 3503317 Pronto -> Exec
+94 : Processo 3503317 Exec -> Pronto por tempo
+95 : Processo 3602876 Pronto -> Exec
+96 : Processo 3602876 Exec -> Pronto por tempo
+97 : Processo 3505725 Pronto -> Exec
+98 : Processo 3505725 Exec -> Pronto por tempo
+99 : Processo 3600251 Pronto -> Exec
+100 : Processo 3600251 Exec -> Pronto por tempo
+101 : Processo 3503317 Pronto -> Exec
+102 : Processo 3503317 Exec -> Pronto por tempo
+103 : Processo 3602876 Pronto -> Exec
+104 : Processo 3602876 Exec -> Pronto por tempo
+105 : Processo 3505725 Pronto -> Exec
+106 : Processo 3505725 Exec -> Pronto por tempo
+107 : Processo 3600251 Pronto -> Exec
+108 : Processo 3600251 Exec -> Pronto por tempo
+109 : Processo 3503317 Pronto -> Exec
+110 : Processo 3503317 Exec -> Pronto por tempo
+111 : Processo 3602876 Pronto -> Exec
+112 : Processo 3602876 Exec -> Pronto por tempo
+113 : Processo 3505725 Pronto -> Exec
+113 : Processo 3635540 alocacao de blocos no pagefile
+113 : Processo 3635540 HwPF - Executável0
+113 : Lista de pags livres menor que80%
+113 : Iniciando Swap
+113 : Processo 3602876 pronto outswapped
+113 : Processo 3635540 HwPF - Executável1
+113 : Processo 3635540 HwPF - Executável2
+113 : Processo 3635540 HwPF - Executável3
+113 : Processo 3635540 HwPF - Executável4
+113 : Processo 3635540 criado
+113 : Processo 3635644 alocacao de blocos no pagefile
+113 : Processo 3635644 HwPF - Executável0
+113 : Lista de pags livres menor que80%
+113 : Iniciando Swap
+113 : Processo 3635540 pronto outswapped
+113 : Processo 3635644 HwPF - Executável1
+113 : Processo 3635644 HwPF - Executável2
+113 : Processo 3635644 HwPF - Executável3
+113 : Processo 3635644 HwPF - Executável4
+113 : Processo 3635644 criado
+114 : Processo 3635747 alocacao de blocos no pagefile
+114 : Processo 3635747 HwPF - Executável0
+114 : Lista de pags livres menor que80%
+114 : Iniciando Swap
+114 : Processo 3635644 pronto outswapped
+114 : Processo 3635747 HwPF - Executável1
+114 : Processo 3635747 HwPF - Executável2
+114 : Processo 3635747 HwPF - Executável3
+114 : Processo 3635747 HwPF - Executável4
+114 : Processo 3635747 criado
+114 : Processo 3635849 alocacao de blocos no pagefile
+114 : Processo 3635849 HwPF - Executável0
+114 : Lista de pags livres menor que80%
+114 : Iniciando Swap
+114 : Processo 3635747 pronto outswapped
+114 : Processo 3635849 HwPF - Executável1
+114 : Processo 3635849 HwPF - Executável2
+114 : Processo 3635849 HwPF - Executável3
+114 : Processo 3635849 HwPF - Executável4
+114 : Processo 3635849 criado
+114 : Processo 3635951 alocacao de blocos no pagefile
+114 : Processo 3635951 HwPF - Executável0
+114 : Lista de pags livres menor que80%
+114 : Iniciando Swap
+114 : Processo 3635849 pronto outswapped
+114 : Processo 3635951 HwPF - Executável1
+114 : Processo 3635951 HwPF - Executável2
+114 : Processo 3635951 HwPF - Executável3
+114 : Processo 3635951 HwPF - Executável4
+114 : Processo 3635951 criado
+114 : Processo 3636056 alocacao de blocos no pagefile
+114 : Processo 3636056 HwPF - Executável0
+114 : Lista de pags livres menor que80%
+114 : Iniciando Swap
+114 : Processo 3635951 pronto outswapped
+114 : Processo 3636056 HwPF - Executável1
+114 : Processo 3636056 HwPF - Executável2
+114 : Processo 3636056 HwPF - Executável3
+114 : Processo 3636056 HwPF - Executável4
+114 : Processo 3636056 criado
+114 : Processo 3636158 alocacao de blocos no pagefile
+114 : Processo 3636158 HwPF - Executável0
+114 : Lista de pags livres menor que80%
+114 : Iniciando Swap
+114 : Processo 3636056 pronto outswapped
+114 : Processo 3636158 HwPF - Executável1
+114 : Processo 3636158 HwPF - Executável2
+114 : Processo 3636158 HwPF - Executável3
+114 : Processo 3636158 HwPF - Executável4
+114 : Processo 3636158 criado
+114 : Processo 3636260 alocacao de blocos no pagefile
+114 : Processo 3636260 HwPF - Executável0
+114 : Lista de pags livres menor que80%
+114 : Iniciando Swap
+114 : Processo 3636158 pronto outswapped
+114 : Processo 3636260 HwPF - Executável1
+114 : Processo 3636260 HwPF - Executável2
+114 : Processo 3636260 HwPF - Executável3
+114 : Processo 3636260 HwPF - Executável4
+114 : Processo 3636260 criado
+114 : Processo 3636362 alocacao de blocos no pagefile
+114 : Processo 3636362 HwPF - Executável0
+114 : Lista de pags livres menor que80%
+114 : Iniciando Swap
+114 : Processo 3636260 pronto outswapped
+114 : Processo 3636362 HwPF - Executável1
+114 : Processo 3636362 HwPF - Executável2
+114 : Processo 3636362 HwPF - Executável3
+114 : Processo 3636362 HwPF - Executável4
+114 : Processo 3636362 criado
+114 : Processo 3636465 alocacao de blocos no pagefile
+114 : Processo 3636465 HwPF - Executável0
+114 : Lista de pags livres menor que80%
+114 : Iniciando Swap
+114 : Processo 3636362 pronto outswapped
+114 : Processo 3636465 HwPF - Executável1
+114 : Processo 3636465 HwPF - Executável2
+114 : Processo 3636465 HwPF - Executável3
+114 : Processo 3636465 HwPF - Executável4
+114 : Processo 3636465 criado
+114 : Processo 3636570 alocacao de blocos no pagefile
+114 : Processo 3636570 HwPF - Executável0
+114 : Lista de pags livres menor que80%
+114 : Iniciando Swap
+114 : Processo 3636465 pronto outswapped
+114 : Processo 3636570 HwPF - Executável1
+114 : Processo 3636570 HwPF - Executável2
+114 : Processo 3636570 HwPF - Executável3
+114 : Processo 3636570 HwPF - Executável4
+114 : Processo 3636570 criado
+114 : Processo 3505725 Exec -> Pronto por tempo
+115 : Processo 3600251 Pronto -> Exec
+116 : Processo 3600251 Exec -> Pronto por tempo
+117 : Processo 3503317 Pronto -> Exec
+118 : Processo 3503317 Exec -> Pronto por tempo
+119 : Processo 3602876 swap in
+119 : Processo 3602876 HwPF - Pagefile0
+119 : Processo 3602876 HwPF - Pagefile1
+119 : Lista de pags livres menor que80%
+119 : Iniciando Swap
+119 : Processo 3503317 pronto outswapped
+119 : Processo 3602876 HwPF - Pagefile2
+119 : Processo 3602876 HwPF - Pagefile3
+119 : Processo 3602876 HwPF - Pagefile4
+119 : Processo 3602876 liberando pagefile alocado
+119 : Processo 3602876 Pronto -> Exec
+120 : Processo 3602876 Exec -> Pronto por tempo
+121 : Processo 3635540 swap in
+121 : Processo 3635540 HwPF - Pagefile0
+121 : Processo 3635540 HwPF - Pagefile1
+121 : Lista de pags livres menor que80%
+121 : Iniciando Swap
+121 : Processo 3602876 pronto outswapped
+121 : Processo 3635540 HwPF - Pagefile2
+121 : Processo 3635540 HwPF - Pagefile3
+121 : Processo 3635540 HwPF - Pagefile4
+121 : Processo 3635540 liberando pagefile alocado
+121 : Processo 3635540 Pronto -> Exec
+122 : Processo 3635540 Exec -> Pronto por tempo
+123 : Processo 3635644 swap in
+123 : Processo 3635644 HwPF - Pagefile0
+123 : Processo 3635644 HwPF - Pagefile1
+123 : Lista de pags livres menor que80%
+123 : Iniciando Swap
+123 : Processo 3635540 pronto outswapped
+123 : Processo 3635644 HwPF - Pagefile2
+123 : Processo 3635644 HwPF - Pagefile3
+123 : Processo 3635644 HwPF - Pagefile4
+123 : Processo 3635644 liberando pagefile alocado
+123 : Processo 3635644 Pronto -> Exec
+124 : Processo 3635644 Exec -> Pronto por tempo
+125 : Processo 3635747 swap in
+125 : Processo 3635747 HwPF - Pagefile0
+125 : Processo 3635747 HwPF - Pagefile1
+125 : Lista de pags livres menor que80%
+125 : Iniciando Swap
+125 : Processo 3635644 pronto outswapped
+125 : Processo 3635747 HwPF - Pagefile2
+125 : Processo 3635747 HwPF - Pagefile3
+125 : Processo 3635747 HwPF - Pagefile4
+125 : Processo 3635747 liberando pagefile alocado
+125 : Processo 3635747 Pronto -> Exec
+126 : Processo 3635747 Exec -> Pronto por tempo
+127 : Processo 3635849 swap in
+127 : Processo 3635849 HwPF - Pagefile0
+127 : Processo 3635849 HwPF - Pagefile1
+127 : Lista de pags livres menor que80%
+127 : Iniciando Swap
+127 : Processo 3635747 pronto outswapped
+127 : Processo 3635849 HwPF - Pagefile2
+127 : Processo 3635849 HwPF - Pagefile3
+127 : Processo 3635849 HwPF - Pagefile4
+127 : Processo 3635849 liberando pagefile alocado
+127 : Processo 3635849 Pronto -> Exec
+128 : Processo 3635849 Exec -> Pronto por tempo
+129 : Processo 3635951 swap in
+129 : Processo 3635951 HwPF - Pagefile0
+129 : Processo 3635951 HwPF - Pagefile1
+129 : Lista de pags livres menor que80%
+129 : Iniciando Swap
+129 : Processo 3635849 pronto outswapped
+129 : Processo 3635951 HwPF - Pagefile2
+129 : Processo 3635951 HwPF - Pagefile3
+129 : Processo 3635951 HwPF - Pagefile4
+129 : Processo 3635951 liberando pagefile alocado
+129 : Processo 3635951 Pronto -> Exec
+130 : Processo 3635951 Exec -> Pronto por tempo
+131 : Processo 3636056 swap in
+131 : Processo 3636056 HwPF - Pagefile0
+131 : Processo 3636056 HwPF - Pagefile1
+131 : Lista de pags livres menor que80%
+131 : Iniciando Swap
+131 : Processo 3635951 pronto outswapped
+131 : Processo 3636056 HwPF - Pagefile2
+131 : Processo 3636056 HwPF - Pagefile3
+131 : Processo 3636056 HwPF - Pagefile4
+131 : Processo 3636056 liberando pagefile alocado
+131 : Processo 3636056 Pronto -> Exec
+132 : Processo 3636056 Exec -> Pronto por tempo
+133 : Processo 3636158 swap in
+133 : Processo 3636158 HwPF - Pagefile0
+133 : Processo 3636158 HwPF - Pagefile1
+133 : Lista de pags livres menor que80%
+133 : Iniciando Swap
+133 : Processo 3636056 pronto outswapped
+133 : Processo 3636158 HwPF - Pagefile2
+133 : Processo 3636158 HwPF - Pagefile3
+133 : Processo 3636158 HwPF - Pagefile4
+133 : Processo 3636158 liberando pagefile alocado
+133 : Processo 3636158 Pronto -> Exec
+134 : Processo 3636158 Exec -> Pronto por tempo
+135 : Processo 3636260 swap in
+135 : Processo 3636260 HwPF - Pagefile0
+135 : Processo 3636260 HwPF - Pagefile1
+135 : Lista de pags livres menor que80%
+135 : Iniciando Swap
+135 : Processo 3636158 pronto outswapped
+135 : Processo 3636260 HwPF - Pagefile2
+135 : Processo 3636260 HwPF - Pagefile3
+135 : Processo 3636260 HwPF - Pagefile4
+135 : Processo 3636260 liberando pagefile alocado
+135 : Processo 3636260 Pronto -> Exec
+136 : Processo 3636260 Exec -> Pronto por tempo
+137 : Processo 3636362 swap in
+137 : Processo 3636362 HwPF - Pagefile0
+137 : Processo 3636362 HwPF - Pagefile1
+137 : Lista de pags livres menor que80%
+137 : Iniciando Swap
+137 : Processo 3636260 pronto outswapped
+137 : Processo 3636362 HwPF - Pagefile2
+137 : Processo 3636362 HwPF - Pagefile3
+137 : Processo 3636362 HwPF - Pagefile4
+137 : Processo 3636362 liberando pagefile alocado
+137 : Processo 3636362 Pronto -> Exec
+138 : Processo 3636362 Exec -> Pronto por tempo
+139 : Processo 3636465 swap in
+139 : Processo 3636465 HwPF - Pagefile0
+139 : Processo 3636465 HwPF - Pagefile1
+139 : Lista de pags livres menor que80%
+139 : Iniciando Swap
+139 : Processo 3636362 pronto outswapped
+139 : Processo 3636465 HwPF - Pagefile2
+139 : Processo 3636465 HwPF - Pagefile3
+139 : Processo 3636465 HwPF - Pagefile4
+139 : Processo 3636465 liberando pagefile alocado
+139 : Processo 3636465 Pronto -> Exec
+140 : Processo 3636465 Exec -> Pronto por tempo
+141 : Processo 3636570 Pronto -> Exec
+142 : Processo 3636570 Exec -> Pronto por tempo
+143 : Processo 3505725 Pronto -> Exec
+144 : Processo 3505725 Exec -> Pronto por tempo
+145 : Processo 3600251 Pronto -> Exec
+146 : Processo 3600251 Exec -> Pronto por tempo
+147 : Processo 3503317 swap in
+147 : Processo 3503317 HwPF - Pagefile0
+147 : Processo 3503317 HwPF - Pagefile1
+147 : Lista de pags livres menor que80%
+147 : Iniciando Swap
+147 : Processo 3600251 pronto outswapped
+147 : Processo 3503317 HwPF - Pagefile2
+147 : Processo 3503317 HwPF - Pagefile3
+147 : Processo 3503317 HwPF - Pagefile4
+147 : Processo 3503317 liberando pagefile alocado
+147 : Processo 3503317 Pronto -> Exec
+148 : Processo 3503317 Exec -> Pronto por tempo
+149 : Processo 3602876 swap in
+149 : Processo 3602876 HwPF - Pagefile0
+149 : Processo 3602876 HwPF - Pagefile1
+149 : Lista de pags livres menor que80%
+149 : Iniciando Swap
+149 : Processo 3503317 pronto outswapped
+149 : Processo 3602876 HwPF - Pagefile2
+149 : Processo 3602876 HwPF - Pagefile3
+149 : Processo 3602876 HwPF - Pagefile4
+149 : Processo 3602876 liberando pagefile alocado
+149 : Processo 3602876 Pronto -> Exec
+150 : Processo 3602876 Exec -> Pronto por tempo
+151 : Processo 3635540 swap in
+151 : Processo 3635540 HwPF - Pagefile0
+151 : Processo 3635540 HwPF - Pagefile1
+151 : Lista de pags livres menor que80%
+151 : Iniciando Swap
+151 : Processo 3602876 pronto outswapped
+151 : Processo 3635540 HwPF - Pagefile2
+151 : Processo 3635540 HwPF - Pagefile3
+151 : Processo 3635540 HwPF - Pagefile4
+151 : Processo 3635540 liberando pagefile alocado
+151 : Processo 3635540 Pronto -> Exec
+152 : Processo 3635540 Exec -> Pronto por tempo
+153 : Processo 3635644 swap in
+153 : Processo 3635644 HwPF - Pagefile0
+153 : Processo 3635644 HwPF - Pagefile1
+153 : Lista de pags livres menor que80%
+153 : Iniciando Swap
+153 : Processo 3635540 pronto outswapped
+153 : Processo 3635644 HwPF - Pagefile2
+153 : Processo 3635644 HwPF - Pagefile3
+153 : Processo 3635644 HwPF - Pagefile4
+153 : Processo 3635644 liberando pagefile alocado
+153 : Processo 3635644 Pronto -> Exec
+154 : Processo 3635644 Exec -> Pronto por tempo
+155 : Processo 3635747 swap in
+155 : Processo 3635747 HwPF - Pagefile0
+155 : Processo 3635747 HwPF - Pagefile1
+155 : Lista de pags livres menor que80%
+155 : Iniciando Swap
+155 : Processo 3635644 pronto outswapped
+155 : Processo 3635747 HwPF - Pagefile2
+155 : Processo 3635747 HwPF - Pagefile3
+155 : Processo 3635747 HwPF - Pagefile4
+155 : Processo 3635747 liberando pagefile alocado
+155 : Processo 3635747 Pronto -> Exec
+156 : Processo 3635747 Exec -> Pronto por tempo
+157 : Processo 3635849 swap in
+157 : Processo 3635849 HwPF - Pagefile0
+157 : Processo 3635849 HwPF - Pagefile1
+157 : Lista de pags livres menor que80%
+157 : Iniciando Swap
+157 : Processo 3635747 pronto outswapped
+157 : Processo 3635849 HwPF - Pagefile2
+157 : Processo 3635849 HwPF - Pagefile3
+157 : Processo 3635849 HwPF - Pagefile4
+157 : Processo 3635849 liberando pagefile alocado
+157 : Processo 3635849 Pronto -> Exec
+158 : Processo 3635849 Exec -> Pronto por tempo
+159 : Processo 3635951 swap in
+159 : Processo 3635951 HwPF - Pagefile0
+159 : Processo 3635951 HwPF - Pagefile1
+159 : Lista de pags livres menor que80%
+159 : Iniciando Swap
+159 : Processo 3635849 pronto outswapped
+159 : Processo 3635951 HwPF - Pagefile2
+159 : Processo 3635951 HwPF - Pagefile3
+159 : Processo 3635951 HwPF - Pagefile4
+159 : Processo 3635951 liberando pagefile alocado
+159 : Processo 3635951 Pronto -> Exec
+160 : Processo 3635951 Exec -> Pronto por tempo
+161 : Processo 3636056 swap in
+161 : Processo 3636056 HwPF - Pagefile0
+161 : Processo 3636056 HwPF - Pagefile1
+161 : Lista de pags livres menor que80%
+161 : Iniciando Swap
+161 : Processo 3635951 pronto outswapped
+161 : Processo 3636056 HwPF - Pagefile2
+161 : Processo 3636056 HwPF - Pagefile3
+161 : Processo 3636056 HwPF - Pagefile4
+161 : Processo 3636056 liberando pagefile alocado
+161 : Processo 3636056 Pronto -> Exec
+162 : Processo 3636056 Exec -> Pronto por tempo
+163 : Processo 3636158 swap in
+163 : Processo 3636158 HwPF - Pagefile0
+163 : Processo 3636158 HwPF - Pagefile1
+163 : Lista de pags livres menor que80%
+163 : Iniciando Swap
+163 : Processo 3636056 pronto outswapped
+163 : Processo 3636158 HwPF - Pagefile2
+163 : Processo 3636158 HwPF - Pagefile3
+163 : Processo 3636158 HwPF - Pagefile4
+163 : Processo 3636158 liberando pagefile alocado
+163 : Processo 3636158 Pronto -> Exec
+164 : Processo 3636158 Exec -> Pronto por tempo
+165 : Processo 3636260 swap in
+165 : Processo 3636260 HwPF - Pagefile0
+165 : Processo 3636260 HwPF - Pagefile1
+165 : Lista de pags livres menor que80%
+165 : Iniciando Swap
+165 : Processo 3636158 pronto outswapped
+165 : Processo 3636260 HwPF - Pagefile2
+165 : Processo 3636260 HwPF - Pagefile3
+165 : Processo 3636260 HwPF - Pagefile4
+165 : Processo 3636260 liberando pagefile alocado
+165 : Processo 3636260 Pronto -> Exec
+166 : Processo 3636260 Exec -> Pronto por tempo
+167 : Processo 3636362 swap in
+167 : Processo 3636362 HwPF - Pagefile0
+167 : Processo 3636362 HwPF - Pagefile1
+167 : Lista de pags livres menor que80%
+167 : Iniciando Swap
+167 : Processo 3636260 pronto outswapped
+167 : Processo 3636362 HwPF - Pagefile2
+167 : Processo 3636362 HwPF - Pagefile3
+167 : Processo 3636362 HwPF - Pagefile4
+167 : Processo 3636362 liberando pagefile alocado
+167 : Processo 3636362 Pronto -> Exec
+168 : Processo 3636362 Exec -> Pronto por tempo
+169 : Processo 3636465 Pronto -> Exec
+170 : Processo 3636465 Exec -> Pronto por tempo
+171 : Processo 3636570 Pronto -> Exec
+172 : Processo 3636570 Exec -> Pronto por tempo
+173 : Processo 3505725 Pronto -> Exec
+173 : Processo 3505725 eliminado
+173 : Tempo de UCP:24 Tempo decorrido:151
+173 : Processo 3505725 liberando pagefile reservado
+174 : Processo 3600251 swap in
+174 : Processo 3600251 HwPF - Pagefile0
+174 : Processo 3600251 HwPF - Pagefile1
+174 : Processo 3600251 HwPF - Pagefile2
+174 : Processo 3600251 HwPF - Pagefile3
+174 : Processo 3600251 HwPF - Pagefile4
+174 : Processo 3600251 liberando pagefile alocado
+174 : Processo 3600251 Pronto -> Exec
+175 : Processo 3600251 Exec -> Pronto por tempo
+176 : Processo 3503317 swap in
+176 : Processo 3503317 HwPF - Pagefile0
+176 : Processo 3503317 HwPF - Pagefile1
+176 : Lista de pags livres menor que80%
+176 : Iniciando Swap
+176 : Processo 3600251 pronto outswapped
+176 : Processo 3503317 HwPF - Pagefile2
+176 : Processo 3503317 HwPF - Pagefile3
+176 : Processo 3503317 HwPF - Pagefile4
+176 : Processo 3503317 liberando pagefile alocado
+176 : Processo 3503317 Pronto -> Exec
+177 : Processo 3503317 Exec -> Pronto por tempo
+178 : Processo 3602876 swap in
+178 : Processo 3602876 HwPF - Pagefile0
+178 : Processo 3602876 HwPF - Pagefile1
+178 : Lista de pags livres menor que80%
+178 : Iniciando Swap
+178 : Processo 3503317 pronto outswapped
+178 : Processo 3602876 HwPF - Pagefile2
+178 : Processo 3602876 HwPF - Pagefile3
+178 : Processo 3602876 HwPF - Pagefile4
+178 : Processo 3602876 liberando pagefile alocado
+178 : Processo 3602876 Pronto -> Exec
+179 : Processo 3602876 Exec -> Pronto por tempo
+180 : Processo 3635540 swap in
+180 : Processo 3635540 HwPF - Pagefile0
+180 : Processo 3635540 HwPF - Pagefile1
+180 : Lista de pags livres menor que80%
+180 : Iniciando Swap
+180 : Processo 3602876 pronto outswapped
+180 : Processo 3635540 HwPF - Pagefile2
+180 : Processo 3635540 HwPF - Pagefile3
+180 : Processo 3635540 HwPF - Pagefile4
+180 : Processo 3635540 liberando pagefile alocado
+180 : Processo 3635540 Pronto -> Exec
+180 : Processo 3635540 eliminado
+180 : Tempo de UCP:3 Tempo decorrido:67
+180 : Processo 3635540 liberando pagefile reservado
+181 : Processo 3635644 swap in
+181 : Processo 3635644 HwPF - Pagefile0
+181 : Processo 3635644 HwPF - Pagefile1
+181 : Processo 3635644 HwPF - Pagefile2
+181 : Processo 3635644 HwPF - Pagefile3
+181 : Processo 3635644 HwPF - Pagefile4
+181 : Processo 3635644 liberando pagefile alocado
+181 : Processo 3635644 Pronto -> Exec
+181 : Processo 3635644 eliminado
+181 : Tempo de UCP:3 Tempo decorrido:68
+181 : Processo 3635644 liberando pagefile reservado
+182 : Processo 3635747 swap in
+182 : Processo 3635747 HwPF - Pagefile0
+182 : Processo 3635747 HwPF - Pagefile1
+182 : Processo 3635747 HwPF - Pagefile2
+182 : Processo 3635747 HwPF - Pagefile3
+182 : Processo 3635747 HwPF - Pagefile4
+182 : Processo 3635747 liberando pagefile alocado
+182 : Processo 3635747 Pronto -> Exec
+182 : Processo 3635747 eliminado
+182 : Tempo de UCP:3 Tempo decorrido:68
+182 : Processo 3635747 liberando pagefile reservado
+183 : Processo 3635849 swap in
+183 : Processo 3635849 HwPF - Pagefile0
+183 : Processo 3635849 HwPF - Pagefile1
+183 : Processo 3635849 HwPF - Pagefile2
+183 : Processo 3635849 HwPF - Pagefile3
+183 : Processo 3635849 HwPF - Pagefile4
+183 : Processo 3635849 liberando pagefile alocado
+183 : Processo 3635849 Pronto -> Exec
+183 : Processo 3635849 eliminado
+183 : Tempo de UCP:3 Tempo decorrido:69
+183 : Processo 3635849 liberando pagefile reservado
+184 : Processo 3635951 swap in
+184 : Processo 3635951 HwPF - Pagefile0
+184 : Processo 3635951 HwPF - Pagefile1
+184 : Processo 3635951 HwPF - Pagefile2
+184 : Processo 3635951 HwPF - Pagefile3
+184 : Processo 3635951 HwPF - Pagefile4
+184 : Processo 3635951 liberando pagefile alocado
+184 : Processo 3635951 Pronto -> Exec
+184 : Processo 3635951 eliminado
+184 : Tempo de UCP:3 Tempo decorrido:70
+184 : Processo 3635951 liberando pagefile reservado
+185 : Processo 3636056 swap in
+185 : Processo 3636056 HwPF - Pagefile0
+185 : Processo 3636056 HwPF - Pagefile1
+185 : Processo 3636056 HwPF - Pagefile2
+185 : Processo 3636056 HwPF - Pagefile3
+185 : Processo 3636056 HwPF - Pagefile4
+185 : Processo 3636056 liberando pagefile alocado
+185 : Processo 3636056 Pronto -> Exec
+185 : Processo 3636056 eliminado
+185 : Tempo de UCP:3 Tempo decorrido:71
+185 : Processo 3636056 liberando pagefile reservado
+186 : Processo 3636158 swap in
+186 : Processo 3636158 HwPF - Pagefile0
+186 : Processo 3636158 HwPF - Pagefile1
+186 : Processo 3636158 HwPF - Pagefile2
+186 : Processo 3636158 HwPF - Pagefile3
+186 : Processo 3636158 HwPF - Pagefile4
+186 : Processo 3636158 liberando pagefile alocado
+186 : Processo 3636158 Pronto -> Exec
+186 : Processo 3636158 eliminado
+186 : Tempo de UCP:3 Tempo decorrido:72
+186 : Processo 3636158 liberando pagefile reservado
+187 : Processo 3636260 swap in
+187 : Processo 3636260 HwPF - Pagefile0
+187 : Processo 3636260 HwPF - Pagefile1
+187 : Processo 3636260 HwPF - Pagefile2
+187 : Processo 3636260 HwPF - Pagefile3
+187 : Processo 3636260 HwPF - Pagefile4
+187 : Processo 3636260 liberando pagefile alocado
+187 : Processo 3636260 Pronto -> Exec
+188 : Processo 3636260 Exec -> Pronto por tempo
+189 : Processo 3636362 Pronto -> Exec
+190 : Processo 3636362 Exec -> Pronto por tempo
+191 : Processo 3636465 Pronto -> Exec
+191 : Processo 3636465 eliminado
+191 : Tempo de UCP:3 Tempo decorrido:77
+191 : Processo 3636465 liberando pagefile reservado

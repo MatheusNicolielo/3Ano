@@ -1,0 +1,35 @@
+0 : Inicializando SOsim ...
+4 : SOsim pronto
+58 : Processo 4632748 alocacao de blocos no pagefile
+58 : Processo 4632748 criado
+59 : Processo 4632748 Pronto -> Exec
+60 : Processo 4632748 Exec -> Page Fault0
+60 : Processo 4634828 alocacao de blocos no pagefile
+60 : Processo 4634828 criado
+61 : Processo 4634828 Pronto -> Exec
+62 : Processo 4634828 Exec -> Page Fault0
+69 : Processo 4632748 Aumento de prioridade +2
+69 : Processo 4632748 HwPF - Executável0
+70 : Processo 4632748 Pronto -> Exec
+71 : Processo 4632748 Exec -> Pronto por tempo
+72 : Processo 4632748 Pronto -> Exec
+73 : Processo 4632748 Exec -> Pronto por tempo
+73 : Processo 4647750 alocacao de blocos no pagefile
+73 : Processo 4647750 criado
+74 : Processo 4632748 Pronto -> Exec
+75 : Processo 4632748 Exec -> Pronto por tempo
+76 : Processo 4647750 Pronto -> Exec
+77 : Processo 4647750 Exec -> Page Fault0
+78 : Processo 4632748 Pronto -> Exec
+79 : Processo 4632748 Exec -> Pronto por tempo
+79 : Processo 4634828 Aumento de prioridade +2
+79 : Processo 4634828 HwPF - Executável0
+80 : Processo 4634828 Pronto -> Exec
+81 : Processo 4634828 Exec -> Pronto por tempo
+82 : Processo 4632748 Pronto -> Exec
+83 : Processo 4632748 Exec -> Pronto por tempo
+84 : Processo 4634828 Pronto -> Exec
+85 : Processo 4634828 Exec -> Pronto por tempo
+86 : Processo 4632748 Pronto -> Exec
+87 : Processo 4632748 Exec -> Pronto por tempo
+88 : Processo 4634828 Pronto -> Exec

@@ -1,0 +1,78 @@
+0 : Inicializando SOsim ...
+4 : SOsim pronto
+7 : Processo 3216001 alocacao de blocos no pagefile
+7 : Processo 3216001 criado
+8 : Processo 3216001 Pronto -> Exec
+9 : Processo 3216001 Exec -> Page Fault0
+9 : Processo 3217930 alocacao de blocos no pagefile
+9 : Processo 3217930 criado
+10 : Processo 3217930 Pronto -> Exec
+11 : Processo 3217930 Exec -> Page Fault0
+18 : Processo 3216001 HwPF - Executável0
+19 : Processo 3216001 Pronto -> Exec
+20 : Processo 3216001 Exec -> Pronto por tempo
+21 : Processo 3216001 Pronto -> Exec
+22 : Processo 3216001 Exec -> Pronto por tempo
+23 : Processo 3216001 Pronto -> Exec
+24 : Processo 3216001 Exec -> Pronto por tempo
+25 : Processo 3216001 Pronto -> Exec
+26 : Processo 3216001 Exec -> Pronto por tempo
+27 : Processo 3216001 Pronto -> Exec
+28 : Processo 3216001 Exec -> Pronto por tempo
+28 : Processo 3217930 HwPF - Executável0
+29 : Processo 3216001 Pronto -> Exec
+30 : Processo 3216001 Exec -> Pronto por tempo
+31 : Processo 3217930 Pronto -> Exec
+32 : Processo 3217930 Exec -> Pronto por tempo
+33 : Processo 3216001 Pronto -> Exec
+34 : Processo 3216001 Exec -> Pronto por tempo
+35 : Processo 3217930 Pronto -> Exec
+36 : Processo 3217930 Exec -> Pronto por tempo
+37 : Processo 3216001 Pronto -> Exec
+38 : Processo 3216001 Exec -> Pronto por tempo
+38 : Processo 3246821 alocacao de blocos no pagefile
+38 : Processo 3246821 criado
+39 : Processo 3217930 Pronto -> Exec
+40 : Processo 3217930 Exec -> Pronto por tempo
+41 : Processo 3216001 Pronto -> Exec
+42 : Processo 3216001 Exec -> Page Fault1
+43 : Processo 3246821 Pronto -> Exec
+44 : Processo 3246821 Exec -> Page Fault0
+45 : Processo 3217930 Pronto -> Exec
+46 : Processo 3217930 Exec -> Pronto por tempo
+47 : Processo 3217930 Pronto -> Exec
+48 : Processo 3217930 Exec -> Pronto por tempo
+49 : Processo 3217930 Pronto -> Exec
+50 : Processo 3217930 Exec -> Pronto por tempo
+51 : Processo 3217930 Pronto -> Exec
+51 : Processo 3216001 HwPF - Executável1
+52 : Processo 3217930 Exec -> Pronto por tempo
+53 : Processo 3216001 Pronto -> Exec
+54 : Processo 3216001 Exec -> Pronto por tempo
+55 : Processo 3217930 Pronto -> Exec
+56 : Processo 3217930 Exec -> Pronto por tempo
+57 : Processo 3216001 Pronto -> Exec
+58 : Processo 3216001 Exec -> Pronto por tempo
+59 : Processo 3217930 Pronto -> Exec
+60 : Processo 3217930 Exec -> Page Fault1
+61 : Processo 3216001 Pronto -> Exec
+61 : Processo 3246821 HwPF - Executável0
+62 : Processo 3216001 Exec -> Pronto por tempo
+63 : Processo 3246821 Pronto -> Exec
+63 : Processo 3246821 Exec -> I/O
+64 : Processo 3216001 Pronto -> Exec
+65 : Processo 3216001 Exec -> Pronto por tempo
+66 : Processo 3216001 Pronto -> Exec
+67 : Processo 3216001 Exec -> Pronto por tempo
+68 : Processo 3216001 Pronto -> Exec
+69 : Processo 3216001 Exec -> Pronto por tempo
+70 : Processo 3216001 Pronto -> Exec
+71 : Processo 3216001 Exec -> Pronto por tempo
+72 : Processo 3216001 Pronto -> Exec
+72 : Processo 3217930 HwPF - Executável1
+73 : Processo 3216001 Exec -> Pronto por tempo
+74 : Processo 3217930 Pronto -> Exec
+75 : Processo 3217930 Exec -> Pronto por tempo
+76 : Processo 3216001 Pronto -> Exec
+77 : Processo 3216001 Exec -> Page Fault2
+77 : SOsim desativado

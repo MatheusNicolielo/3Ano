@@ -1,0 +1,959 @@
+0 : Inicializando SOsim ...
+1 : SOsim pronto
+7 : Processo 4327218 alocacao de blocos no pagefile
+7 : Processo 4327218 criado
+8 : Processo 4327218 Pronto -> Exec
+9 : Processo 4327218 Exec -> Page Fault0
+19 : Processo 4327218 HwPF - Executável0
+20 : Processo 4327218 Pronto -> Exec
+21 : Processo 4327218 Exec -> Pronto por tempo
+22 : Processo 4327218 Pronto -> Exec
+23 : Processo 4327218 Exec -> Pronto por tempo
+24 : Processo 4327218 Pronto -> Exec
+25 : Processo 4327218 Exec -> Pronto por tempo
+26 : Processo 4327218 Pronto -> Exec
+27 : Processo 4327218 Exec -> Pronto por tempo
+28 : Processo 4327218 Pronto -> Exec
+29 : Processo 4327218 Exec -> Pronto por tempo
+30 : Processo 4327218 Pronto -> Exec
+31 : Processo 4327218 Exec -> Pronto por tempo
+32 : Processo 4327218 Pronto -> Exec
+33 : Processo 4327218 Exec -> Pronto por tempo
+34 : Processo 4327218 Pronto -> Exec
+35 : Processo 4327218 Exec -> Pronto por tempo
+36 : Processo 4327218 Pronto -> Exec
+37 : Processo 4327218 Exec -> Page Fault1
+47 : Processo 4327218 HwPF - Executável1
+48 : Processo 4327218 Pronto -> Exec
+49 : Processo 4327218 Exec -> Pronto por tempo
+50 : Processo 4327218 Pronto -> Exec
+51 : Processo 4327218 Exec -> Pronto por tempo
+52 : Processo 4327218 Pronto -> Exec
+53 : Processo 4327218 Exec -> Pronto por tempo
+54 : Processo 4327218 Pronto -> Exec
+55 : Processo 4327218 Exec -> Pronto por tempo
+56 : Processo 4327218 Pronto -> Exec
+57 : Processo 4327218 Exec -> Pronto por tempo
+58 : Processo 4327218 Pronto -> Exec
+59 : Processo 4327218 Exec -> Pronto por tempo
+60 : Processo 4327218 Pronto -> Exec
+61 : Processo 4327218 Exec -> Pronto por tempo
+62 : Processo 4327218 Pronto -> Exec
+63 : Processo 4327218 Exec -> Pronto por tempo
+64 : Processo 4327218 Pronto -> Exec
+65 : Processo 4327218 Exec -> Page Fault2
+71 : Processo 4327218 HwPF - Executável2
+72 : Processo 4327218 Pronto -> Exec
+73 : Processo 4327218 Exec -> Pronto por tempo
+74 : Processo 4327218 Pronto -> Exec
+75 : Processo 4327218 Exec -> Pronto por tempo
+76 : Processo 4327218 Pronto -> Exec
+77 : Processo 4327218 Exec -> Pronto por tempo
+78 : Processo 4327218 Pronto -> Exec
+79 : Processo 4327218 Exec -> Pronto por tempo
+80 : Processo 4327218 Pronto -> Exec
+81 : Processo 4327218 Exec -> Pronto por tempo
+82 : Processo 4327218 Pronto -> Exec
+83 : Processo 4327218 Exec -> Pronto por tempo
+84 : Processo 4327218 Pronto -> Exec
+87 : Processo 4327218 Exec -> Page Fault3
+96 : Processo 4327218 HwPF - Executável3
+97 : Processo 4327218 Pronto -> Exec
+106 : Processo 4327218 Exec -> Page Fault4
+115 : Processo 4327218 HwPF - Executável4
+116 : Processo 4327218 Pronto -> Exec
+126 : Processo 4327218 Exec -> Pronto por tempo
+127 : Processo 4327218 Pronto -> Exec
+137 : Processo 4327218 Exec -> Pronto por tempo
+138 : Processo 4327218 Pronto -> Exec
+148 : Processo 4327218 Exec -> Pronto por tempo
+149 : Processo 4327218 Pronto -> Exec
+155 : Processo 4327218 Exec -> Pronto por tempo
+156 : Processo 4327218 Pronto -> Exec
+158 : Processo 4327218 Exec -> Pronto por tempo
+159 : Processo 4327218 Pronto -> Exec
+160 : Processo 4327218 Exec -> Pronto por tempo
+161 : Processo 4327218 Pronto -> Exec
+162 : Processo 4327218 Exec -> Pronto por tempo
+163 : Processo 4327218 Pronto -> Exec
+164 : Processo 4327218 Exec -> Pronto por tempo
+165 : Processo 4327218 Pronto -> Exec
+166 : Processo 4327218 Exec -> Pronto por tempo
+167 : Processo 4327218 Pronto -> Exec
+168 : Processo 4327218 Exec -> Pronto por tempo
+169 : Processo 4327218 Pronto -> Exec
+170 : Processo 4327218 Exec -> Pronto por tempo
+171 : Processo 4327218 Pronto -> Exec
+172 : Processo 4327218 Exec -> Pronto por tempo
+173 : Processo 4327218 Pronto -> Exec
+174 : Processo 4327218 Exec -> Pronto por tempo
+175 : Processo 4327218 Pronto -> Exec
+176 : Processo 4327218 Exec -> Pronto por tempo
+177 : Processo 4327218 Pronto -> Exec
+178 : Processo 4327218 Exec -> Pronto por tempo
+179 : Processo 4327218 Pronto -> Exec
+180 : Processo 4327218 Exec -> Pronto por tempo
+181 : Processo 4327218 Pronto -> Exec
+182 : Processo 4327218 Exec -> Pronto por tempo
+183 : Processo 4327218 Pronto -> Exec
+184 : Processo 4327218 Exec -> Pronto por tempo
+185 : Processo 4327218 Pronto -> Exec
+186 : Processo 4327218 Exec -> Pronto por tempo
+187 : Processo 4327218 Pronto -> Exec
+188 : Processo 4327218 Exec -> Pronto por tempo
+189 : Processo 4327218 Pronto -> Exec
+190 : Processo 4327218 Exec -> Pronto por tempo
+191 : Processo 4327218 Pronto -> Exec
+192 : Processo 4327218 Exec -> Pronto por tempo
+193 : Processo 4327218 Pronto -> Exec
+194 : Processo 4327218 Exec -> Pronto por tempo
+195 : Processo 4327218 Pronto -> Exec
+196 : Processo 4327218 Exec -> Pronto por tempo
+197 : Processo 4327218 Pronto -> Exec
+198 : Processo 4327218 Exec -> Pronto por tempo
+199 : Processo 4327218 Pronto -> Exec
+200 : Processo 4327218 Exec -> Pronto por tempo
+201 : Processo 4327218 Pronto -> Exec
+202 : Processo 4327218 Exec -> Pronto por tempo
+203 : Processo 4327218 Pronto -> Exec
+204 : Processo 4327218 Exec -> Pronto por tempo
+205 : Processo 4327218 Pronto -> Exec
+206 : Processo 4327218 Exec -> Pronto por tempo
+207 : Processo 4327218 Pronto -> Exec
+208 : Processo 4327218 Exec -> Pronto por tempo
+209 : Processo 4327218 Pronto -> Exec
+210 : Processo 4327218 Exec -> Pronto por tempo
+211 : Processo 4327218 Pronto -> Exec
+212 : Processo 4327218 Exec -> Pronto por tempo
+213 : Processo 4327218 Pronto -> Exec
+214 : Processo 4327218 Exec -> Pronto por tempo
+215 : Processo 4327218 Pronto -> Exec
+216 : Processo 4327218 Exec -> Pronto por tempo
+217 : Processo 4327218 Pronto -> Exec
+218 : Processo 4327218 Exec -> Pronto por tempo
+219 : Processo 4327218 Pronto -> Exec
+220 : Processo 4327218 Exec -> Pronto por tempo
+221 : Processo 4327218 Pronto -> Exec
+222 : Processo 4327218 Exec -> Pronto por tempo
+223 : Processo 4327218 Pronto -> Exec
+224 : Processo 4327218 Exec -> Pronto por tempo
+225 : Processo 4327218 Pronto -> Exec
+226 : Processo 4327218 Exec -> Pronto por tempo
+227 : Processo 4327218 Pronto -> Exec
+228 : Processo 4327218 Exec -> Pronto por tempo
+229 : Processo 4327218 Pronto -> Exec
+230 : Processo 4327218 Exec -> Pronto por tempo
+231 : Processo 4327218 Pronto -> Exec
+232 : Processo 4327218 Exec -> Pronto por tempo
+233 : Processo 4327218 Pronto -> Exec
+234 : Processo 4327218 Exec -> Pronto por tempo
+235 : Processo 4327218 Pronto -> Exec
+236 : Processo 4327218 Exec -> Pronto por tempo
+237 : Processo 4327218 Pronto -> Exec
+238 : Processo 4327218 Exec -> Pronto por tempo
+239 : Processo 4327218 Pronto -> Exec
+240 : Processo 4327218 Exec -> Pronto por tempo
+241 : Processo 4327218 Pronto -> Exec
+242 : Processo 4327218 Exec -> Pronto por tempo
+243 : Processo 4327218 Pronto -> Exec
+244 : Processo 4327218 Exec -> Pronto por tempo
+245 : Processo 4327218 Pronto -> Exec
+246 : Processo 4327218 Exec -> Pronto por tempo
+247 : Processo 4327218 Pronto -> Exec
+248 : Processo 4327218 Exec -> Pronto por tempo
+249 : Processo 4327218 Pronto -> Exec
+250 : Processo 4327218 Exec -> Pronto por tempo
+251 : Processo 4327218 Pronto -> Exec
+252 : Processo 4327218 Exec -> Pronto por tempo
+253 : Processo 4327218 Pronto -> Exec
+254 : Processo 4327218 Exec -> Pronto por tempo
+255 : Processo 4327218 Pronto -> Exec
+256 : Processo 4327218 Exec -> Pronto por tempo
+257 : Processo 4327218 Pronto -> Exec
+258 : Processo 4327218 Exec -> Pronto por tempo
+259 : Processo 4327218 Pronto -> Exec
+260 : Processo 4327218 Exec -> Pronto por tempo
+261 : Processo 4327218 Pronto -> Exec
+262 : Processo 4327218 Exec -> Pronto por tempo
+263 : Processo 4327218 Pronto -> Exec
+264 : Processo 4327218 Exec -> Pronto por tempo
+265 : Processo 4327218 Pronto -> Exec
+266 : Processo 4327218 Exec -> Pronto por tempo
+267 : Processo 4327218 Pronto -> Exec
+268 : Processo 4327218 Exec -> Pronto por tempo
+269 : Processo 4327218 Pronto -> Exec
+270 : Processo 4327218 Exec -> Pronto por tempo
+271 : Processo 4327218 Pronto -> Exec
+272 : Processo 4327218 Exec -> Pronto por tempo
+273 : Processo 4327218 Pronto -> Exec
+274 : Processo 4327218 Exec -> Pronto por tempo
+275 : Processo 4327218 Pronto -> Exec
+276 : Processo 4327218 Exec -> Pronto por tempo
+277 : Processo 4327218 Pronto -> Exec
+278 : Processo 4327218 Exec -> Pronto por tempo
+279 : Processo 4327218 Pronto -> Exec
+280 : Processo 4327218 Exec -> Pronto por tempo
+281 : Processo 4327218 Pronto -> Exec
+282 : Processo 4327218 Exec -> Pronto por tempo
+283 : Processo 4327218 Pronto -> Exec
+284 : Processo 4327218 Exec -> Pronto por tempo
+285 : Processo 4327218 Pronto -> Exec
+286 : Processo 4327218 Exec -> Pronto por tempo
+287 : Processo 4327218 Pronto -> Exec
+288 : Processo 4327218 Exec -> Pronto por tempo
+289 : Processo 4327218 Pronto -> Exec
+290 : Processo 4327218 Exec -> Pronto por tempo
+291 : Processo 4327218 Pronto -> Exec
+292 : Processo 4327218 Exec -> Pronto por tempo
+293 : Processo 4327218 Pronto -> Exec
+294 : Processo 4327218 Exec -> Pronto por tempo
+295 : Processo 4327218 Pronto -> Exec
+296 : Processo 4327218 Exec -> Pronto por tempo
+297 : Processo 4327218 Pronto -> Exec
+298 : Processo 4327218 Exec -> Pronto por tempo
+299 : Processo 4327218 Pronto -> Exec
+300 : Processo 4327218 Exec -> Pronto por tempo
+301 : Processo 4327218 Pronto -> Exec
+302 : Processo 4327218 Exec -> Pronto por tempo
+303 : Processo 4327218 Pronto -> Exec
+304 : Processo 4327218 Exec -> Pronto por tempo
+305 : Processo 4327218 Pronto -> Exec
+306 : Processo 4327218 Exec -> Pronto por tempo
+307 : Processo 4327218 Pronto -> Exec
+308 : Processo 4327218 Exec -> Pronto por tempo
+309 : Processo 4327218 Pronto -> Exec
+310 : Processo 4327218 Exec -> Pronto por tempo
+311 : Processo 4327218 Pronto -> Exec
+312 : Processo 4327218 Exec -> Pronto por tempo
+313 : Processo 4327218 Pronto -> Exec
+314 : Processo 4327218 Exec -> Pronto por tempo
+315 : Processo 4327218 Pronto -> Exec
+316 : Processo 4327218 Exec -> Pronto por tempo
+317 : Processo 4327218 Pronto -> Exec
+318 : Processo 4327218 Exec -> Pronto por tempo
+319 : Processo 4327218 Pronto -> Exec
+320 : Processo 4327218 Exec -> Pronto por tempo
+321 : Processo 4327218 Pronto -> Exec
+322 : Processo 4327218 Exec -> Pronto por tempo
+323 : Processo 4327218 Pronto -> Exec
+324 : Processo 4327218 Exec -> Pronto por tempo
+325 : Processo 4327218 Pronto -> Exec
+326 : Processo 4327218 Exec -> Pronto por tempo
+327 : Processo 4327218 Pronto -> Exec
+328 : Processo 4327218 Exec -> Pronto por tempo
+329 : Processo 4327218 Pronto -> Exec
+330 : Processo 4327218 Exec -> Pronto por tempo
+331 : Processo 4327218 Pronto -> Exec
+332 : Processo 4327218 Exec -> Pronto por tempo
+333 : Processo 4327218 Pronto -> Exec
+334 : Processo 4327218 Exec -> Pronto por tempo
+335 : Processo 4327218 Pronto -> Exec
+336 : Processo 4327218 Exec -> Pronto por tempo
+337 : Processo 4327218 Pronto -> Exec
+338 : Processo 4327218 Exec -> Pronto por tempo
+339 : Processo 4327218 Pronto -> Exec
+340 : Processo 4327218 Exec -> Pronto por tempo
+341 : Processo 4327218 Pronto -> Exec
+342 : Processo 4327218 Exec -> Pronto por tempo
+343 : Processo 4327218 Pronto -> Exec
+344 : Processo 4327218 Exec -> Pronto por tempo
+345 : Processo 4327218 Pronto -> Exec
+346 : Processo 4327218 Exec -> Pronto por tempo
+347 : Processo 4327218 Pronto -> Exec
+348 : Processo 4327218 Exec -> Pronto por tempo
+349 : Processo 4327218 Pronto -> Exec
+350 : Processo 4327218 Exec -> Pronto por tempo
+351 : Processo 4327218 Pronto -> Exec
+352 : Processo 4327218 Exec -> Pronto por tempo
+353 : Processo 4327218 Pronto -> Exec
+354 : Processo 4327218 Exec -> Pronto por tempo
+355 : Processo 4327218 Pronto -> Exec
+356 : Processo 4327218 Exec -> Pronto por tempo
+357 : Processo 4327218 Pronto -> Exec
+358 : Processo 4327218 Exec -> Pronto por tempo
+359 : Processo 4327218 Pronto -> Exec
+360 : Processo 4327218 Exec -> Pronto por tempo
+361 : Processo 4327218 Pronto -> Exec
+362 : Processo 4327218 Exec -> Pronto por tempo
+363 : Processo 4327218 Pronto -> Exec
+364 : Processo 4327218 Exec -> Pronto por tempo
+365 : Processo 4327218 Pronto -> Exec
+366 : Processo 4327218 Exec -> Pronto por tempo
+367 : Processo 4327218 Pronto -> Exec
+368 : Processo 4327218 Exec -> Pronto por tempo
+369 : Processo 4327218 Pronto -> Exec
+370 : Processo 4327218 Exec -> Pronto por tempo
+371 : Processo 4327218 Pronto -> Exec
+372 : Processo 4327218 Exec -> Pronto por tempo
+373 : Processo 4327218 Pronto -> Exec
+374 : Processo 4327218 Exec -> Pronto por tempo
+375 : Processo 4327218 Pronto -> Exec
+376 : Processo 4327218 Exec -> Pronto por tempo
+377 : Processo 4327218 Pronto -> Exec
+378 : Processo 4327218 Exec -> Pronto por tempo
+379 : Processo 4327218 Pronto -> Exec
+380 : Processo 4327218 Exec -> Pronto por tempo
+381 : Processo 4327218 Pronto -> Exec
+382 : Processo 4327218 Exec -> Pronto por tempo
+383 : Processo 4327218 Pronto -> Exec
+384 : Processo 4327218 Exec -> Pronto por tempo
+385 : Processo 4327218 Pronto -> Exec
+386 : Processo 4327218 Exec -> Pronto por tempo
+387 : Processo 4327218 Pronto -> Exec
+388 : Processo 4327218 Exec -> Pronto por tempo
+389 : Processo 4327218 Pronto -> Exec
+390 : Processo 4327218 Exec -> Pronto por tempo
+391 : Processo 4327218 Pronto -> Exec
+392 : Processo 4327218 Exec -> Pronto por tempo
+393 : Processo 4327218 Pronto -> Exec
+394 : Processo 4327218 Exec -> Pronto por tempo
+395 : Processo 4327218 Pronto -> Exec
+396 : Processo 4327218 Exec -> Pronto por tempo
+397 : Processo 4327218 Pronto -> Exec
+398 : Processo 4327218 Exec -> Pronto por tempo
+399 : Processo 4327218 Pronto -> Exec
+400 : Processo 4327218 Exec -> Pronto por tempo
+401 : Processo 4327218 Pronto -> Exec
+402 : Processo 4327218 Exec -> Pronto por tempo
+403 : Processo 4327218 Pronto -> Exec
+404 : Processo 4327218 Exec -> Pronto por tempo
+405 : Processo 4327218 Pronto -> Exec
+406 : Processo 4327218 Exec -> Pronto por tempo
+407 : Processo 4327218 Pronto -> Exec
+408 : Processo 4327218 Exec -> Pronto por tempo
+409 : Processo 4327218 Pronto -> Exec
+410 : Processo 4327218 Exec -> Pronto por tempo
+411 : Processo 4327218 Pronto -> Exec
+412 : Processo 4327218 Exec -> Pronto por tempo
+413 : Processo 4327218 Pronto -> Exec
+414 : Processo 4327218 Exec -> Pronto por tempo
+415 : Processo 4327218 Pronto -> Exec
+416 : Processo 4327218 Exec -> Pronto por tempo
+417 : Processo 4327218 Pronto -> Exec
+418 : Processo 4327218 Exec -> Pronto por tempo
+419 : Processo 4327218 Pronto -> Exec
+420 : Processo 4327218 Exec -> Pronto por tempo
+421 : Processo 4327218 Pronto -> Exec
+422 : Processo 4327218 Exec -> Pronto por tempo
+423 : Processo 4327218 Pronto -> Exec
+424 : Processo 4327218 Exec -> Pronto por tempo
+425 : Processo 4327218 Pronto -> Exec
+426 : Processo 4327218 Exec -> Pronto por tempo
+427 : Processo 4327218 Pronto -> Exec
+428 : Processo 4327218 Exec -> Pronto por tempo
+429 : Processo 4327218 Pronto -> Exec
+430 : Processo 4327218 Exec -> Pronto por tempo
+431 : Processo 4327218 Pronto -> Exec
+432 : Processo 4327218 Exec -> Pronto por tempo
+433 : Processo 4327218 Pronto -> Exec
+434 : Processo 4327218 Exec -> Pronto por tempo
+435 : Processo 4327218 Pronto -> Exec
+436 : Processo 4327218 Exec -> Pronto por tempo
+437 : Processo 4327218 Pronto -> Exec
+438 : Processo 4327218 Exec -> Pronto por tempo
+439 : Processo 4327218 Pronto -> Exec
+440 : Processo 4327218 Exec -> Pronto por tempo
+441 : Processo 4327218 Pronto -> Exec
+442 : Processo 4327218 Exec -> Pronto por tempo
+443 : Processo 4327218 Pronto -> Exec
+444 : Processo 4327218 Exec -> Pronto por tempo
+445 : Processo 4327218 Pronto -> Exec
+446 : Processo 4327218 Exec -> Pronto por tempo
+447 : Processo 4327218 Pronto -> Exec
+448 : Processo 4327218 Exec -> Pronto por tempo
+449 : Processo 4327218 Pronto -> Exec
+450 : Processo 4327218 Exec -> Pronto por tempo
+451 : Processo 4327218 Pronto -> Exec
+452 : Processo 4327218 Exec -> Pronto por tempo
+453 : Processo 4327218 Pronto -> Exec
+454 : Processo 4327218 Exec -> Pronto por tempo
+455 : Processo 4327218 Pronto -> Exec
+456 : Processo 4327218 Exec -> Pronto por tempo
+457 : Processo 4327218 Pronto -> Exec
+458 : Processo 4327218 Exec -> Pronto por tempo
+459 : Processo 4327218 Pronto -> Exec
+460 : Processo 4327218 Exec -> Pronto por tempo
+461 : Processo 4327218 Pronto -> Exec
+462 : Processo 4327218 Exec -> Pronto por tempo
+463 : Processo 4327218 Pronto -> Exec
+464 : Processo 4327218 Exec -> Pronto por tempo
+465 : Processo 4327218 Pronto -> Exec
+466 : Processo 4327218 Exec -> Pronto por tempo
+467 : Processo 4327218 Pronto -> Exec
+468 : Processo 4327218 Exec -> Pronto por tempo
+469 : Processo 4327218 Pronto -> Exec
+470 : Processo 4327218 Exec -> Pronto por tempo
+471 : Processo 4327218 Pronto -> Exec
+472 : Processo 4327218 Exec -> Pronto por tempo
+473 : Processo 4327218 Pronto -> Exec
+474 : Processo 4327218 Exec -> Pronto por tempo
+475 : Processo 4327218 Pronto -> Exec
+476 : Processo 4327218 Exec -> Pronto por tempo
+477 : Processo 4327218 Pronto -> Exec
+478 : Processo 4327218 Exec -> Pronto por tempo
+479 : Processo 4327218 Pronto -> Exec
+480 : Processo 4327218 Exec -> Pronto por tempo
+481 : Processo 4327218 Pronto -> Exec
+482 : Processo 4327218 Exec -> Pronto por tempo
+483 : Processo 4327218 Pronto -> Exec
+484 : Processo 4327218 Exec -> Pronto por tempo
+485 : Processo 4327218 Pronto -> Exec
+486 : Processo 4327218 Exec -> Pronto por tempo
+487 : Processo 4327218 Pronto -> Exec
+488 : Processo 4327218 Exec -> Pronto por tempo
+489 : Processo 4327218 Pronto -> Exec
+490 : Processo 4327218 Exec -> Pronto por tempo
+491 : Processo 4327218 Pronto -> Exec
+492 : Processo 4327218 Exec -> Pronto por tempo
+493 : Processo 4327218 Pronto -> Exec
+494 : Processo 4327218 Exec -> Pronto por tempo
+495 : Processo 4327218 Pronto -> Exec
+496 : Processo 4327218 Exec -> Pronto por tempo
+497 : Processo 4327218 Pronto -> Exec
+498 : Processo 4327218 Exec -> Pronto por tempo
+499 : Processo 4327218 Pronto -> Exec
+500 : Processo 4327218 Exec -> Pronto por tempo
+501 : Processo 4327218 Pronto -> Exec
+502 : Processo 4327218 Exec -> Pronto por tempo
+503 : Processo 4327218 Pronto -> Exec
+504 : Processo 4327218 Exec -> Pronto por tempo
+505 : Processo 4327218 Pronto -> Exec
+506 : Processo 4327218 Exec -> Pronto por tempo
+507 : Processo 4327218 Pronto -> Exec
+508 : Processo 4327218 Exec -> Pronto por tempo
+509 : Processo 4327218 Pronto -> Exec
+510 : Processo 4327218 Exec -> Pronto por tempo
+511 : Processo 4327218 Pronto -> Exec
+512 : Processo 4327218 Exec -> Pronto por tempo
+513 : Processo 4327218 Pronto -> Exec
+514 : Processo 4327218 Exec -> Pronto por tempo
+515 : Processo 4327218 Pronto -> Exec
+516 : Processo 4327218 Exec -> Pronto por tempo
+517 : Processo 4327218 Pronto -> Exec
+518 : Processo 4327218 Exec -> Pronto por tempo
+519 : Processo 4327218 Pronto -> Exec
+520 : Processo 4327218 Exec -> Pronto por tempo
+521 : Processo 4327218 Pronto -> Exec
+522 : Processo 4327218 Exec -> Pronto por tempo
+523 : Processo 4327218 Pronto -> Exec
+524 : Processo 4327218 Exec -> Pronto por tempo
+525 : Processo 4327218 Pronto -> Exec
+526 : Processo 4327218 Exec -> Pronto por tempo
+527 : Processo 4327218 Pronto -> Exec
+528 : Processo 4327218 Exec -> Pronto por tempo
+529 : Processo 4327218 Pronto -> Exec
+530 : Processo 4327218 Exec -> Pronto por tempo
+531 : Processo 4327218 Pronto -> Exec
+532 : Processo 4327218 Exec -> Pronto por tempo
+533 : Processo 4327218 Pronto -> Exec
+534 : Processo 4327218 Exec -> Pronto por tempo
+535 : Processo 4327218 Pronto -> Exec
+536 : Processo 4327218 Exec -> Pronto por tempo
+537 : Processo 4327218 Pronto -> Exec
+538 : Processo 4327218 Exec -> Pronto por tempo
+539 : Processo 4327218 Pronto -> Exec
+540 : Processo 4327218 Exec -> Pronto por tempo
+541 : Processo 4327218 Pronto -> Exec
+542 : Processo 4327218 Exec -> Pronto por tempo
+543 : Processo 4327218 Pronto -> Exec
+544 : Processo 4327218 Exec -> Pronto por tempo
+545 : Processo 4327218 Pronto -> Exec
+546 : Processo 4327218 Exec -> Pronto por tempo
+547 : Processo 4327218 Pronto -> Exec
+548 : Processo 4327218 Exec -> Pronto por tempo
+549 : Processo 4327218 Pronto -> Exec
+550 : Processo 4327218 Exec -> Pronto por tempo
+551 : Processo 4327218 Pronto -> Exec
+552 : Processo 4327218 Exec -> Pronto por tempo
+553 : Processo 4327218 Pronto -> Exec
+554 : Processo 4327218 Exec -> Pronto por tempo
+555 : Processo 4327218 Pronto -> Exec
+556 : Processo 4327218 Exec -> Pronto por tempo
+557 : Processo 4327218 Pronto -> Exec
+558 : Processo 4327218 Exec -> Pronto por tempo
+559 : Processo 4327218 Pronto -> Exec
+560 : Processo 4327218 Exec -> Pronto por tempo
+561 : Processo 4327218 Pronto -> Exec
+562 : Processo 4327218 Exec -> Pronto por tempo
+563 : Processo 4327218 Pronto -> Exec
+564 : Processo 4327218 Exec -> Pronto por tempo
+565 : Processo 4327218 Pronto -> Exec
+566 : Processo 4327218 Exec -> Pronto por tempo
+567 : Processo 4327218 Pronto -> Exec
+568 : Processo 4327218 Exec -> Pronto por tempo
+569 : Processo 4327218 Pronto -> Exec
+570 : Processo 4327218 Exec -> Pronto por tempo
+571 : Processo 4327218 Pronto -> Exec
+572 : Processo 4327218 Exec -> Pronto por tempo
+573 : Processo 4327218 Pronto -> Exec
+574 : Processo 4327218 Exec -> Pronto por tempo
+575 : Processo 4327218 Pronto -> Exec
+576 : Processo 4327218 Exec -> Pronto por tempo
+577 : Processo 4327218 Pronto -> Exec
+578 : Processo 4327218 Exec -> Pronto por tempo
+579 : Processo 4327218 Pronto -> Exec
+580 : Processo 4327218 Exec -> Pronto por tempo
+581 : Processo 4327218 Pronto -> Exec
+582 : Processo 4327218 Exec -> Pronto por tempo
+583 : Processo 4327218 Pronto -> Exec
+584 : Processo 4327218 Exec -> Pronto por tempo
+585 : Processo 4327218 Pronto -> Exec
+586 : Processo 4327218 Exec -> Pronto por tempo
+587 : Processo 4327218 Pronto -> Exec
+588 : Processo 4327218 Exec -> Pronto por tempo
+589 : Processo 4327218 Pronto -> Exec
+590 : Processo 4327218 Exec -> Pronto por tempo
+591 : Processo 4327218 Pronto -> Exec
+592 : Processo 4327218 Exec -> Pronto por tempo
+593 : Processo 4327218 Pronto -> Exec
+594 : Processo 4327218 Exec -> Pronto por tempo
+595 : Processo 4327218 Pronto -> Exec
+596 : Processo 4327218 Exec -> Pronto por tempo
+597 : Processo 4327218 Pronto -> Exec
+598 : Processo 4327218 Exec -> Pronto por tempo
+599 : Processo 4327218 Pronto -> Exec
+600 : Processo 4327218 Exec -> Pronto por tempo
+601 : Processo 4327218 Pronto -> Exec
+602 : Processo 4327218 Exec -> Pronto por tempo
+603 : Processo 4327218 Pronto -> Exec
+604 : Processo 4327218 Exec -> Pronto por tempo
+605 : Processo 4327218 Pronto -> Exec
+606 : Processo 4327218 Exec -> Pronto por tempo
+607 : Processo 4327218 Pronto -> Exec
+608 : Processo 4327218 Exec -> Pronto por tempo
+609 : Processo 4327218 Pronto -> Exec
+610 : Processo 4327218 Exec -> Pronto por tempo
+611 : Processo 4327218 Pronto -> Exec
+612 : Processo 4327218 Exec -> Pronto por tempo
+613 : Processo 4327218 Pronto -> Exec
+614 : Processo 4327218 Exec -> Pronto por tempo
+615 : Processo 4327218 Pronto -> Exec
+616 : Processo 4327218 Exec -> Pronto por tempo
+617 : Processo 4327218 Pronto -> Exec
+618 : Processo 4327218 Exec -> Pronto por tempo
+619 : Processo 4327218 Pronto -> Exec
+620 : Processo 4327218 Exec -> Pronto por tempo
+621 : Processo 4327218 Pronto -> Exec
+622 : Processo 4327218 Exec -> Pronto por tempo
+623 : Processo 4327218 Pronto -> Exec
+624 : Processo 4327218 Exec -> Pronto por tempo
+625 : Processo 4327218 Pronto -> Exec
+626 : Processo 4327218 Exec -> Pronto por tempo
+627 : Processo 4327218 Pronto -> Exec
+628 : Processo 4327218 Exec -> Pronto por tempo
+629 : Processo 4327218 Pronto -> Exec
+630 : Processo 4327218 Exec -> Pronto por tempo
+631 : Processo 4327218 Pronto -> Exec
+632 : Processo 4327218 Exec -> Pronto por tempo
+633 : Processo 4327218 Pronto -> Exec
+634 : Processo 4327218 Exec -> Pronto por tempo
+635 : Processo 4327218 Pronto -> Exec
+636 : Processo 4327218 Exec -> Pronto por tempo
+637 : Processo 4327218 Pronto -> Exec
+638 : Processo 4327218 Exec -> Pronto por tempo
+639 : Processo 4327218 Pronto -> Exec
+640 : Processo 4327218 Exec -> Pronto por tempo
+641 : Processo 4327218 Pronto -> Exec
+642 : Processo 4327218 Exec -> Pronto por tempo
+643 : Processo 4327218 Pronto -> Exec
+644 : Processo 4327218 Exec -> Pronto por tempo
+645 : Processo 4327218 Pronto -> Exec
+646 : Processo 4327218 Exec -> Pronto por tempo
+647 : Processo 4327218 Pronto -> Exec
+648 : Processo 4327218 Exec -> Pronto por tempo
+649 : Processo 4327218 Pronto -> Exec
+650 : Processo 4327218 Exec -> Pronto por tempo
+651 : Processo 4327218 Pronto -> Exec
+652 : Processo 4327218 Exec -> Pronto por tempo
+653 : Processo 4327218 Pronto -> Exec
+654 : Processo 4327218 Exec -> Pronto por tempo
+655 : Processo 4327218 Pronto -> Exec
+656 : Processo 4327218 Exec -> Pronto por tempo
+657 : Processo 4327218 Pronto -> Exec
+658 : Processo 4327218 Exec -> Pronto por tempo
+659 : Processo 4327218 Pronto -> Exec
+660 : Processo 4327218 Exec -> Pronto por tempo
+661 : Processo 4327218 Pronto -> Exec
+662 : Processo 4327218 Exec -> Pronto por tempo
+663 : Processo 4327218 Pronto -> Exec
+664 : Processo 4327218 Exec -> Pronto por tempo
+665 : Processo 4327218 Pronto -> Exec
+666 : Processo 4327218 Exec -> Pronto por tempo
+667 : Processo 4327218 Pronto -> Exec
+668 : Processo 4327218 Exec -> Pronto por tempo
+669 : Processo 4327218 Pronto -> Exec
+670 : Processo 4327218 Exec -> Pronto por tempo
+671 : Processo 4327218 Pronto -> Exec
+672 : Processo 4327218 Exec -> Pronto por tempo
+673 : Processo 4327218 Pronto -> Exec
+674 : Processo 4327218 Exec -> Pronto por tempo
+675 : Processo 4327218 Pronto -> Exec
+676 : Processo 4327218 Exec -> Pronto por tempo
+677 : Processo 4327218 Pronto -> Exec
+678 : Processo 4327218 Exec -> Pronto por tempo
+679 : Processo 4327218 Pronto -> Exec
+680 : Processo 4327218 Exec -> Pronto por tempo
+681 : Processo 4327218 Pronto -> Exec
+682 : Processo 4327218 Exec -> Pronto por tempo
+683 : Processo 4327218 Pronto -> Exec
+684 : Processo 4327218 Exec -> Pronto por tempo
+685 : Processo 4327218 Pronto -> Exec
+686 : Processo 4327218 Exec -> Pronto por tempo
+687 : Processo 4327218 Pronto -> Exec
+688 : Processo 4327218 Exec -> Pronto por tempo
+689 : Processo 4327218 Pronto -> Exec
+690 : Processo 4327218 Exec -> Pronto por tempo
+691 : Processo 4327218 Pronto -> Exec
+692 : Processo 4327218 Exec -> Pronto por tempo
+692 : Processo 5359597 alocacao de blocos no pagefile
+692 : Processo 5359597 criado
+693 : Processo 4327218 Pronto -> Exec
+694 : Processo 4327218 Exec -> Pronto por tempo
+695 : Processo 5359597 Pronto -> Exec
+696 : Processo 5359597 Exec -> Page Fault0
+697 : Processo 4327218 Pronto -> Exec
+698 : Processo 4327218 Exec -> Pronto por tempo
+698 : Processo 5359597 HwPF - Executável0
+699 : Processo 4327218 Pronto -> Exec
+700 : Processo 4327218 Exec -> Pronto por tempo
+701 : Processo 5359597 Pronto -> Exec
+701 : Processo 5359597 Exec -> I/O
+702 : Processo 4327218 Pronto -> Exec
+703 : Processo 4327218 Exec -> Pronto por tempo
+704 : Processo 4327218 Pronto -> Exec
+705 : Processo 4327218 Exec -> Pronto por tempo
+706 : Processo 4327218 Pronto -> Exec
+707 : Processo 4327218 Exec -> Pronto por tempo
+708 : Processo 4327218 Pronto -> Exec
+709 : Processo 4327218 Exec -> Pronto por tempo
+710 : Processo 4327218 Pronto -> Exec
+711 : Processo 4327218 Exec -> Pronto por tempo
+712 : Processo 5359597 Pronto -> Exec
+713 : Processo 5359597 Exec -> Pronto por tempo
+714 : Processo 4327218 Pronto -> Exec
+715 : Processo 4327218 Exec -> Pronto por tempo
+716 : Processo 5359597 Pronto -> Exec
+716 : Processo 5359597 Exec -> I/O
+717 : Processo 4327218 Pronto -> Exec
+718 : Processo 4327218 Exec -> Pronto por tempo
+719 : Processo 4327218 Pronto -> Exec
+720 : Processo 4327218 Exec -> Pronto por tempo
+721 : Processo 4327218 Pronto -> Exec
+722 : Processo 4327218 Exec -> Pronto por tempo
+723 : Processo 4327218 Pronto -> Exec
+724 : Processo 4327218 Exec -> Pronto por tempo
+725 : Processo 4327218 Pronto -> Exec
+726 : Processo 4327218 Exec -> Pronto por tempo
+727 : Processo 5359597 Pronto -> Exec
+728 : Processo 5359597 Exec -> Pronto por tempo
+729 : Processo 4327218 Pronto -> Exec
+730 : Processo 4327218 Exec -> Pronto por tempo
+731 : Processo 5359597 Pronto -> Exec
+731 : Processo 5359597 Exec -> I/O
+732 : Processo 4327218 Pronto -> Exec
+733 : Processo 4327218 Exec -> Pronto por tempo
+733 : Processo 5411162 alocacao de blocos no pagefile
+733 : Processo 5411162 criado
+734 : Processo 4327218 Pronto -> Exec
+735 : Processo 4327218 Exec -> Pronto por tempo
+736 : Processo 5411162 Pronto -> Exec
+737 : Processo 5411162 Exec -> Page Fault0
+738 : Processo 4327218 Pronto -> Exec
+739 : Processo 4327218 Exec -> Pronto por tempo
+740 : Processo 4327218 Pronto -> Exec
+741 : Processo 4327218 Exec -> Pronto por tempo
+742 : Processo 5359597 Pronto -> Exec
+743 : Processo 5359597 Exec -> Pronto por tempo
+744 : Processo 4327218 Pronto -> Exec
+745 : Processo 4327218 Exec -> Pronto por tempo
+746 : Processo 5359597 Pronto -> Exec
+746 : Processo 5359597 Exec -> I/O
+747 : Processo 4327218 Pronto -> Exec
+748 : Processo 4327218 Exec -> Pronto por tempo
+749 : Processo 4327218 Pronto -> Exec
+750 : Processo 4327218 Exec -> Pronto por tempo
+751 : Processo 4327218 Pronto -> Exec
+751 : Processo 5411162 HwPF - Executável0
+752 : Processo 4327218 Exec -> Pronto por tempo
+753 : Processo 5411162 Pronto -> Exec
+753 : Processo 5411162 Exec -> I/O
+754 : Processo 4327218 Pronto -> Exec
+755 : Processo 4327218 Exec -> Pronto por tempo
+756 : Processo 4327218 Pronto -> Exec
+757 : Processo 4327218 Exec -> Pronto por tempo
+758 : Processo 4327218 Pronto -> Exec
+759 : Processo 4327218 Exec -> Pronto por tempo
+760 : Processo 4327218 Pronto -> Exec
+761 : Processo 4327218 Exec -> Pronto por tempo
+762 : Processo 5359597 Pronto -> Exec
+763 : Processo 5359597 Exec -> Pronto por tempo
+764 : Processo 4327218 Pronto -> Exec
+765 : Processo 4327218 Exec -> Pronto por tempo
+765 : Processo 5414678 alocacao de blocos no pagefile
+765 : Processo 5414678 criado
+766 : Processo 5414787 alocacao de blocos no pagefile
+766 : Processo 5414787 criado
+767 : Processo 5414898 alocacao de blocos no pagefile
+767 : Processo 5414898 criado
+768 : Processo 5415007 alocacao de blocos no pagefile
+768 : Processo 5415007 criado
+769 : Processo 5415117 alocacao de blocos no pagefile
+769 : Processo 5415117 criado
+770 : Processo 5415226 alocacao de blocos no pagefile
+770 : Processo 5415226 criado
+771 : Processo 5415335 alocacao de blocos no pagefile
+771 : Processo 5415335 criado
+772 : Processo 5415444 alocacao de blocos no pagefile
+772 : Processo 5415444 criado
+766 : Processo 5359597 Pronto -> Exec
+772 : Processo 5359597 Exec -> Page Fault1
+773 : Processo 4327218 Pronto -> Exec
+774 : Processo 4327218 Exec -> Pronto por tempo
+775 : Processo 5414678 Pronto -> Exec
+776 : Processo 5414678 Exec -> Page Fault0
+777 : Processo 5414787 Pronto -> Exec
+778 : Processo 5414787 Exec -> Page Fault0
+779 : Processo 5414898 Pronto -> Exec
+780 : Processo 5414898 Exec -> Page Fault0
+781 : Processo 5415007 Pronto -> Exec
+782 : Processo 5415007 Exec -> Page Fault0
+783 : Processo 5415117 Pronto -> Exec
+784 : Processo 5415117 Exec -> Page Fault0
+785 : Processo 5415226 Pronto -> Exec
+786 : Processo 5415226 Exec -> Page Fault0
+787 : Processo 5415335 Pronto -> Exec
+787 : Processo 5359597 HwPF - Executável1
+788 : Processo 5415335 Exec -> Page Fault0
+789 : Processo 5415444 Pronto -> Exec
+790 : Processo 5415444 Exec -> Page Fault0
+791 : Processo 4327218 Pronto -> Exec
+792 : Processo 4327218 Exec -> Pronto por tempo
+793 : Processo 5411162 Pronto -> Exec
+794 : Processo 5411162 Exec -> Pronto por tempo
+795 : Processo 5359597 Pronto -> Exec
+795 : Processo 5359597 Exec -> I/O
+796 : Processo 4327218 Pronto -> Exec
+797 : Processo 4327218 Exec -> Pronto por tempo
+797 : Processo 5414678 HwPF - Executável0
+798 : Processo 5411162 Pronto -> Exec
+798 : Processo 5411162 Exec -> I/O
+799 : Processo 4327218 Pronto -> Exec
+800 : Processo 4327218 Exec -> Pronto por tempo
+801 : Processo 5414678 Pronto -> Exec
+801 : Processo 5414678 Exec -> I/O
+802 : Processo 4327218 Pronto -> Exec
+803 : Processo 4327218 Exec -> Pronto por tempo
+804 : Processo 4327218 Pronto -> Exec
+805 : Processo 4327218 Exec -> Pronto por tempo
+806 : Processo 4327218 Pronto -> Exec
+807 : Processo 4327218 Exec -> Pronto por tempo
+807 : Processo 5414787 HwPF - Executável0
+808 : Processo 4327218 Pronto -> Exec
+809 : Processo 4327218 Exec -> Pronto por tempo
+810 : Processo 5414787 Pronto -> Exec
+810 : Processo 5414787 Exec -> I/O
+811 : Processo 4327218 Pronto -> Exec
+812 : Processo 4327218 Exec -> Pronto por tempo
+813 : Processo 4327218 Pronto -> Exec
+814 : Processo 4327218 Exec -> Pronto por tempo
+815 : Processo 4327218 Pronto -> Exec
+816 : Processo 4327218 Exec -> Pronto por tempo
+817 : Processo 4327218 Pronto -> Exec
+817 : Processo 5414898 HwPF - Executável0
+818 : Processo 4327218 Exec -> Pronto por tempo
+819 : Processo 5414898 Pronto -> Exec
+819 : Processo 5414898 Exec -> I/O
+820 : Processo 4327218 Pronto -> Exec
+821 : Processo 4327218 Exec -> Pronto por tempo
+822 : Processo 4327218 Pronto -> Exec
+823 : Processo 4327218 Exec -> Pronto por tempo
+824 : Processo 4327218 Pronto -> Exec
+825 : Processo 4327218 Exec -> Pronto por tempo
+826 : Processo 4327218 Pronto -> Exec
+827 : Processo 4327218 Exec -> Pronto por tempo
+827 : Processo 5415007 HwPF - Executável0
+828 : Processo 4327218 Pronto -> Exec
+829 : Processo 4327218 Exec -> Pronto por tempo
+830 : Processo 5415007 Pronto -> Exec
+830 : Processo 5415007 Exec -> I/O
+831 : Processo 4327218 Pronto -> Exec
+832 : Processo 4327218 Exec -> Pronto por tempo
+833 : Processo 4327218 Pronto -> Exec
+834 : Processo 4327218 Exec -> Pronto por tempo
+835 : Processo 4327218 Pronto -> Exec
+836 : Processo 4327218 Exec -> Pronto por tempo
+837 : Processo 4327218 Pronto -> Exec
+837 : Processo 5415117 HwPF - Executável0
+838 : Processo 4327218 Exec -> Pronto por tempo
+839 : Processo 5415117 Pronto -> Exec
+839 : Processo 5415117 Exec -> I/O
+840 : Processo 4327218 Pronto -> Exec
+841 : Processo 4327218 Exec -> Pronto por tempo
+842 : Processo 4327218 Pronto -> Exec
+843 : Processo 4327218 Exec -> Pronto por tempo
+844 : Processo 4327218 Pronto -> Exec
+845 : Processo 4327218 Exec -> Pronto por tempo
+846 : Processo 4327218 Pronto -> Exec
+847 : Processo 4327218 Exec -> Pronto por tempo
+847 : Processo 5415226 HwPF - Executável0
+848 : Processo 4327218 Pronto -> Exec
+849 : Processo 4327218 Exec -> Pronto por tempo
+850 : Processo 5415226 Pronto -> Exec
+850 : Processo 5415226 Exec -> I/O
+851 : Processo 4327218 Pronto -> Exec
+852 : Processo 4327218 Exec -> Pronto por tempo
+853 : Processo 4327218 Pronto -> Exec
+854 : Processo 4327218 Exec -> Pronto por tempo
+855 : Processo 4327218 Pronto -> Exec
+856 : Processo 4327218 Exec -> Pronto por tempo
+857 : Processo 4327218 Pronto -> Exec
+857 : Processo 5415335 HwPF - Executável0
+858 : Processo 4327218 Exec -> Pronto por tempo
+859 : Processo 5415335 Pronto -> Exec
+859 : Processo 5415335 Exec -> I/O
+860 : Processo 4327218 Pronto -> Exec
+861 : Processo 4327218 Exec -> Pronto por tempo
+862 : Processo 4327218 Pronto -> Exec
+863 : Processo 4327218 Exec -> Pronto por tempo
+864 : Processo 4327218 Pronto -> Exec
+865 : Processo 4327218 Exec -> Pronto por tempo
+866 : Processo 4327218 Pronto -> Exec
+867 : Processo 4327218 Exec -> Pronto por tempo
+867 : Processo 5415444 HwPF - Executável0
+868 : Processo 4327218 Pronto -> Exec
+869 : Processo 4327218 Exec -> Pronto por tempo
+870 : Processo 5415444 Pronto -> Exec
+870 : Processo 5415444 Exec -> I/O
+871 : Processo 4327218 Pronto -> Exec
+872 : Processo 4327218 Exec -> Pronto por tempo
+873 : Processo 4327218 Pronto -> Exec
+874 : Processo 4327218 Exec -> Pronto por tempo
+875 : Processo 4327218 Pronto -> Exec
+876 : Processo 4327218 Exec -> Pronto por tempo
+877 : Processo 4327218 Pronto -> Exec
+878 : Processo 4327218 Exec -> Pronto por tempo
+879 : Processo 5359597 Pronto -> Exec
+880 : Processo 5359597 Exec -> Pronto por tempo
+881 : Processo 4327218 Pronto -> Exec
+882 : Processo 4327218 Exec -> Pronto por tempo
+883 : Processo 5359597 Pronto -> Exec
+883 : Processo 5359597 Exec -> I/O
+884 : Processo 4327218 Pronto -> Exec
+885 : Processo 4327218 Exec -> Pronto por tempo
+886 : Processo 4327218 Pronto -> Exec
+887 : Processo 4327218 Exec -> Pronto por tempo
+888 : Processo 4327218 Pronto -> Exec
+889 : Processo 4327218 Exec -> Pronto por tempo
+890 : Processo 5411162 Pronto -> Exec
+891 : Processo 5411162 Exec -> Pronto por tempo
+892 : Processo 4327218 Pronto -> Exec
+893 : Processo 4327218 Exec -> Pronto por tempo
+894 : Processo 5411162 Pronto -> Exec
+894 : Processo 5411162 Exec -> I/O
+895 : Processo 4327218 Pronto -> Exec
+896 : Processo 4327218 Exec -> Pronto por tempo
+897 : Processo 4327218 Pronto -> Exec
+898 : Processo 4327218 Exec -> Pronto por tempo
+899 : Processo 5414678 Pronto -> Exec
+900 : Processo 5414678 Exec -> Pronto por tempo
+901 : Processo 4327218 Pronto -> Exec
+902 : Processo 4327218 Exec -> Pronto por tempo
+903 : Processo 5414678 Pronto -> Exec
+903 : Processo 5414678 Exec -> I/O
+904 : Processo 4327218 Pronto -> Exec
+905 : Processo 4327218 Exec -> Pronto por tempo
+906 : Processo 4327218 Pronto -> Exec
+907 : Processo 4327218 Exec -> Pronto por tempo
+908 : Processo 4327218 Pronto -> Exec
+909 : Processo 4327218 Exec -> Pronto por tempo
+910 : Processo 5414787 Pronto -> Exec
+911 : Processo 5414787 Exec -> Pronto por tempo
+912 : Processo 4327218 Pronto -> Exec
+913 : Processo 4327218 Exec -> Pronto por tempo
+914 : Processo 5414787 Pronto -> Exec
+914 : Processo 5414787 Exec -> I/O
+915 : Processo 4327218 Pronto -> Exec
+916 : Processo 4327218 Exec -> Pronto por tempo
+917 : Processo 4327218 Pronto -> Exec
+918 : Processo 4327218 Exec -> Pronto por tempo
+919 : Processo 5414898 Pronto -> Exec
+920 : Processo 5414898 Exec -> Pronto por tempo
+921 : Processo 4327218 Pronto -> Exec
+922 : Processo 4327218 Exec -> Pronto por tempo
+922 : Processo 5431686 alocacao de blocos no pagefile
+922 : Processo 5431686 criado
+923 : Processo 5431796 alocacao de blocos no pagefile
+923 : Processo 5431796 criado
+924 : Processo 5431905 alocacao de blocos no pagefile
+924 : Processo 5431905 criado
+925 : Processo 5432016 alocacao de blocos no pagefile
+925 : Processo 5432016 criado
+926 : Processo 5432125 alocacao de blocos no pagefile
+926 : Processo 5432125 criado
+927 : Processo 5432234 alocacao de blocos no pagefile
+927 : Processo 5432234 criado
+928 : Processo 5432344 alocacao de blocos no pagefile
+928 : Processo 5432344 criado
+929 : Processo 5432453 alocacao de blocos no pagefile
+929 : Processo 5432453 criado
+930 : Processo 5432562 alocacao de blocos no pagefile
+930 : Processo 5432562 criado
+931 : Erro: criacao do processo5432671. Falta de espaco no PF
+923 : Processo 5431686 Pronto -> Exec
+931 : Processo 5431686 Exec -> Page Fault0
+932 : Processo 5431796 Pronto -> Exec
+933 : Processo 5431796 Exec -> Page Fault0
+934 : Processo 5431905 Pronto -> Exec
+935 : Processo 5431905 Exec -> Page Fault0
+936 : Processo 5432016 Pronto -> Exec
+937 : Processo 5432016 Exec -> Page Fault0
+938 : Processo 5432125 Pronto -> Exec
+939 : Processo 5432125 Exec -> Page Fault0
+940 : Processo 5432234 Pronto -> Exec
+941 : Processo 5432234 Exec -> Page Fault0
+942 : Processo 5432344 Pronto -> Exec
+943 : Processo 5432344 Exec -> Page Fault0
+944 : Processo 5432453 Pronto -> Exec
+945 : Processo 5432453 Exec -> Page Fault0
+946 : Processo 5432562 Pronto -> Exec
+947 : Processo 5432562 Exec -> Page Fault0
+948 : Processo 5432671 Pronto -> Exec
+991 : Erro: criacao do processo5438997. Falta de espaco no PF
+1026 : Processo 5431686 HwPF - Executável0
+1036 : Processo 5431796 HwPF - Executável0
+1046 : Processo 5431905 HwPF - Executável0
+1056 : Processo 5432016 HwPF - Executável0
+1066 : Processo 5432125 HwPF - Executável0
+1076 : Lista de pags livres menor que80%
+1076 : Iniciando Swap
+1076 : Processo 5432562 page fault outswapped
+1076 : Processo 5432234 HwPF - Executável0
+1080 : Erro: criacao do processo5447987. Falta de espaco no PF
+1086 : Lista de pags livres menor que80%
+1086 : Iniciando Swap
+1086 : Processo 5432453 page fault outswapped
+1086 : Processo 5432344 HwPF - Executável0
+1090 : Erro: criacao do processo5448964. Falta de espaco no PF
+1092 : Erro: criacao do processo5449236. Falta de espaco no PF
+1097 : Erro: criacao do processo5449684. Falta de espaco no PF
+1101 : Erro: criacao do processo5450137. Falta de espaco no PF
+1106 : Erro: criacao do processo5450584. Falta de espaco no PF
+1110 : Erro: criacao do processo5451047. Falta de espaco no PF
+1115 : Erro: criacao do processo5451501. Falta de espaco no PF
+1119 : Erro: criacao do processo5451977. Falta de espaco no PF
+1122 : Erro: criacao do processo5452264. Falta de espaco no PF
+1138 : Erro: criacao do processo5453837. Falta de espaco no PF
+1142 : Erro: criacao do processo5454298. Falta de espaco no PF
+1147 : Erro: criacao do processo5454768. Falta de espaco no PF
+1220 : Erro: criacao do processo5502157. Falta de espaco no PF
+1232 : Erro: criacao do processo5503378. Falta de espaco no PF
+1237 : Erro: criacao do processo5503844. Falta de espaco no PF
+1242 : Erro: criacao do processo5504354. Falta de espaco no PF
+1247 : Erro: criacao do processo5504854. Falta de espaco no PF
+1252 : Erro: criacao do processo5505371. Falta de espaco no PF
+1257 : Erro: criacao do processo5505921. Falta de espaco no PF
+2137 : Erro: criacao do processo5634320. Falta de espaco no PF
+2142 : Erro: criacao do processo5634754. Falta de espaco no PF
+2151 : Erro: criacao do processo5635662. Falta de espaco no PF
+2163 : Erro: criacao do processo5636890. Falta de espaco no PF
+2171 : Erro: criacao do processo5637743. Falta de espaco no PF

@@ -1,0 +1,171 @@
+0 : Inicializando SOsim ...
+4 : SOsim pronto
+27 : Processo 5953964 alocacao de blocos no pagefile
+27 : Processo 5953964 HwPF - Executável0
+27 : Processo 5953964 HwPF - Executável1
+27 : Processo 5953964 HwPF - Executável2
+27 : Processo 5953964 HwPF - Executável3
+27 : Processo 5953964 HwPF - Executável4
+27 : Processo 5953964 criado
+28 : Processo 5953964 Pronto -> Exec
+29 : Processo 5953964 Exec -> Pronto por tempo
+30 : Processo 5953964 Pronto -> Exec
+31 : Processo 5953964 Exec -> Pronto por tempo
+32 : Processo 5953964 Pronto -> Exec
+32 : Processo 5958373 alocacao de blocos no pagefile
+32 : Processo 5958373 HwPF - Executável0
+32 : Processo 5958373 HwPF - Executável1
+32 : Processo 5958373 HwPF - Executável2
+32 : Processo 5958373 HwPF - Executável3
+32 : Processo 5958373 HwPF - Executável4
+32 : Processo 5958373 criado
+33 : Processo 5953964 Exec -> Pronto por tempo
+34 : Processo 5958373 Pronto -> Exec
+35 : Processo 5958373 Exec -> Pronto por tempo
+36 : Processo 5953964 Pronto -> Exec
+37 : Processo 5953964 Exec -> Pronto por tempo
+38 : Processo 5958373 Pronto -> Exec
+39 : Processo 5958373 Exec -> Pronto por tempo
+40 : Processo 5953964 Pronto -> Exec
+41 : Processo 5953964 Exec -> Pronto por tempo
+42 : Processo 5958373 Pronto -> Exec
+43 : Processo 5958373 Exec -> Pronto por tempo
+44 : Processo 5953964 Pronto -> Exec
+45 : Processo 5953964 Exec -> Pronto por tempo
+46 : Processo 5958373 Pronto -> Exec
+47 : Processo 5958373 Exec -> Pronto por tempo
+48 : Processo 5953964 Pronto -> Exec
+49 : Processo 5953964 Exec -> Pronto por tempo
+50 : Processo 5958373 Pronto -> Exec
+51 : Processo 5958373 Exec -> Pronto por tempo
+52 : Processo 5953964 Pronto -> Exec
+53 : Processo 5953964 Exec -> Pronto por tempo
+54 : Processo 5958373 Pronto -> Exec
+55 : Processo 5958373 Exec -> Pronto por tempo
+56 : Processo 5953964 Pronto -> Exec
+57 : Processo 5953964 Exec -> Pronto por tempo
+58 : Processo 5958373 Pronto -> Exec
+59 : Processo 5958373 Exec -> Pronto por tempo
+60 : Processo 5953964 Pronto -> Exec
+61 : Processo 5953964 Exec -> Pronto por tempo
+62 : Processo 5958373 Pronto -> Exec
+63 : Processo 5958373 Exec -> Pronto por tempo
+63 : Processo 29497 alocacao de blocos no pagefile
+63 : Processo 29497 HwPF - Executável0
+63 : Processo 29497 HwPF - Executável1
+63 : Processo 29497 HwPF - Executável2
+63 : Processo 29497 HwPF - Executável3
+63 : Processo 29497 HwPF - Executável4
+63 : Processo 29497 criado
+64 : Processo 5953964 Pronto -> Exec
+65 : Processo 5953964 Exec -> Pronto por tempo
+66 : Processo 5958373 Pronto -> Exec
+67 : Processo 5958373 Exec -> Pronto por tempo
+68 : Processo 29497 Pronto -> Exec
+69 : Processo 29497 Exec -> Pronto por tempo
+70 : Processo 5953964 Pronto -> Exec
+71 : Processo 5953964 Exec -> Pronto por tempo
+72 : Processo 5958373 Pronto -> Exec
+73 : Processo 5958373 Exec -> Pronto por tempo
+74 : Processo 29497 Pronto -> Exec
+75 : Processo 29497 Exec -> Pronto por tempo
+76 : Processo 5953964 Pronto -> Exec
+77 : Processo 5953964 Exec -> Pronto por tempo
+78 : Processo 5958373 Pronto -> Exec
+79 : Processo 5958373 Exec -> Pronto por tempo
+80 : Processo 29497 Pronto -> Exec
+81 : Processo 29497 Exec -> Pronto por tempo
+82 : Processo 5953964 Pronto -> Exec
+83 : Processo 5953964 Exec -> Pronto por tempo
+84 : Processo 5958373 Pronto -> Exec
+85 : Processo 5958373 Exec -> Pronto por tempo
+86 : Processo 29497 Pronto -> Exec
+87 : Processo 29497 Exec -> Pronto por tempo
+88 : Processo 5953964 Pronto -> Exec
+89 : Processo 5953964 Exec -> Pronto por tempo
+90 : Processo 5958373 Pronto -> Exec
+91 : Processo 5958373 Exec -> Pronto por tempo
+92 : Processo 29497 Pronto -> Exec
+93 : Processo 29497 Exec -> Pronto por tempo
+94 : Processo 5953964 Pronto -> Exec
+95 : Processo 5953964 Exec -> Pronto por tempo
+95 : Processo 101596 alocacao de blocos no pagefile
+95 : Processo 101596 HwPF - Executável0
+95 : Processo 101596 HwPF - Executável1
+95 : Processo 101596 HwPF - Executável2
+95 : Processo 101596 HwPF - Executável3
+95 : Processo 101596 HwPF - Executável4
+95 : Processo 101596 criado
+96 : Processo 5958373 Pronto -> Exec
+97 : Processo 5958373 Exec -> Pronto por tempo
+98 : Processo 29497 Pronto -> Exec
+99 : Processo 29497 Exec -> Pronto por tempo
+100 : Processo 5953964 Pronto -> Exec
+101 : Processo 5953964 Exec -> Pronto por tempo
+102 : Processo 101596 Pronto -> Exec
+102 : Processo 101596 Exec -> I/O
+103 : Processo 5958373 Pronto -> Exec
+104 : Processo 5958373 Exec -> Pronto por tempo
+105 : Processo 29497 Pronto -> Exec
+106 : Processo 29497 Exec -> Pronto por tempo
+107 : Processo 5953964 Pronto -> Exec
+108 : Processo 5953964 Exec -> Pronto por tempo
+109 : Processo 5958373 Pronto -> Exec
+110 : Processo 5958373 Exec -> Pronto por tempo
+111 : Processo 29497 Pronto -> Exec
+112 : Processo 29497 Exec -> Pronto por tempo
+113 : Processo 5953964 Pronto -> Exec
+114 : Processo 5953964 Exec -> Pronto por tempo
+115 : Processo 5958373 Pronto -> Exec
+116 : Processo 5958373 Exec -> Pronto por tempo
+117 : Processo 101596 Pronto -> Exec
+118 : Processo 101596 Exec -> Pronto por tempo
+119 : Processo 29497 Pronto -> Exec
+120 : Processo 29497 Exec -> Pronto por tempo
+121 : Processo 5953964 Pronto -> Exec
+122 : Processo 5953964 Exec -> Pronto por tempo
+123 : Processo 5958373 Pronto -> Exec
+124 : Processo 5958373 Exec -> Pronto por tempo
+125 : Processo 101596 Pronto -> Exec
+125 : Processo 101596 Exec -> I/O
+125 : Processo 131960 alocacao de blocos no pagefile
+125 : Processo 131960 HwPF - Executável0
+125 : Lista de pags livres menor que80%
+125 : Iniciando Swap
+125 : Processo 101596 IO outswapped
+125 : Processo 131960 HwPF - Executável1
+125 : Processo 131960 HwPF - Executável2
+125 : Processo 131960 HwPF - Executável3
+125 : Processo 131960 HwPF - Executável4
+125 : Processo 131960 criado
+126 : Processo 29497 Pronto -> Exec
+127 : Processo 29497 Exec -> Pronto por tempo
+128 : Processo 5953964 Pronto -> Exec
+129 : Processo 5953964 Exec -> Pronto por tempo
+130 : Processo 5958373 Pronto -> Exec
+131 : Processo 5958373 Exec -> Pronto por tempo
+132 : Processo 131960 Pronto -> Exec
+132 : Processo 131960 Exec -> I/O
+133 : Processo 29497 Pronto -> Exec
+134 : Processo 29497 Exec -> Pronto por tempo
+135 : Processo 5953964 Pronto -> Exec
+136 : Processo 5953964 Exec -> Pronto por tempo
+137 : Processo 5958373 Pronto -> Exec
+138 : Processo 5958373 Exec -> Pronto por tempo
+139 : Processo 29497 Pronto -> Exec
+140 : Processo 29497 Exec -> Pronto por tempo
+141 : Processo 101596 swap in
+141 : Processo 101596 HwPF - Pagefile0
+141 : Processo 101596 HwPF - Pagefile1
+141 : Lista de pags livres menor que80%
+141 : Iniciando Swap
+141 : Processo 131960 IO outswapped
+141 : Processo 101596 HwPF - Pagefile2
+141 : Processo 101596 HwPF - Pagefile3
+141 : Processo 101596 HwPF - Pagefile4
+141 : Processo 101596 liberando pagefile alocado
+141 : Processo 101596 Pronto -> Exec
+141 : Processo 101596 Exec -> I/O
+142 : Processo 5953964 Pronto -> Exec
+143 : Processo 5953964 Exec -> Pronto por tempo
+144 : Processo 5958373 Pronto -> Exec
